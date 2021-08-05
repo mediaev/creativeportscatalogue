@@ -1,0 +1,13 @@
+{% extends "./base.html" %} {% block content %}
+  <h2>{{ title }}</h2>
+  {{ content | safe }}
+  <ol class="toc">
+    {%- for chapter in collections.chapters -%}
+    <li>
+      <a href="{{ chapter.url }}">
+        {{ chapter.data.title }}
+      </a>
+    </li>
+    {%- endfor -%}
+  </ol>
+{% endblock %}

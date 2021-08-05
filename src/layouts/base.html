@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>{{ title }}</title>
+    <link rel="stylesheet" href="/css/master.css" />
+    <script>
+      document.getElementsByTagName('html')[0].classList.add('js');
+    </script>
+  </head>
+  <body>
+    {% include "partials/site-head.html" %}
+    <div class="wrapper">
+      <main tabindex="-1" id="main-content">{% block content %}
+        <h1>{{ title }}</h1>
+        {{ content | safe }}
+      {% endblock %}</main>
+      {% include "partials/site-footer.html" %}
+    </div>
+    <script src="/js/app.js"></script>
+  </body>
+</html>

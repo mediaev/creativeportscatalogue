@@ -1,0 +1,23 @@
+{% set previousPost = collections.chapters | getPreviousCollectionItem(page) %}
+{% set nextPost = collections.chapters | getNextCollectionItem(page) %}
+{% extends "./base.html" %}
+
+{% block content %}
+  <h1>{{ title }}</h1>
+  <article>
+    {{ content | safe }}
+  </article>
+
+  <nav class="chapter-navigation">
+    {% if previousPost %}
+      <a href="{{ previousPost.url }}" title="{{ previousPost.data.title }}" class="previous">{{ previousPost.data.title }}</a>
+    {% else %}
+      <div></div>
+    {% endif %}
+    {% if nextPost %}
+      <a href="{{ nextPost.url }}" title="{{ nextPost.data.titla }}" class="next">{{ nextPost.data.title }}</a>
+    {% else %}
+      <div></div>
+    {% endif %}
+  </nav>
+{% endblock %}

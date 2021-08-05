@@ -1,0 +1,28 @@
+<a class="show-on-focus" href="#main-content">Skip to content</a>
+<header role="banner">
+  {% if page.url != '/' %}
+  <div class="">
+    <nav class="main-navigation hidden" aria-label="Primary">
+      <a href="/" class="logo">{{ site.title }}</a>
+      <ul>
+        <li><a href="/">Home</a></li>
+        {%- for chapter in collections.chapters -%}
+        <li>
+          <a href="{{ chapter.url }}">
+            {{ chapter.data.title }}
+          </a>
+        </li>
+        {%- endfor -%}
+        {%- for page in collections.pages -%}
+        <li class="page-link">
+          <a href="{{ page.url }}">
+            {{ page.data.title }}
+          </a>
+        </li>
+        {%- endfor -%}
+      </ul>
+    </nav>
+  </div>
+  <a href="#" class="menu-toggle" title="Show menu"><span></span></a>
+  {% endif %}
+</header>

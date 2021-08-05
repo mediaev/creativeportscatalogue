@@ -1,0 +1,347 @@
+/****************************
+ * Reset
+ ****************************/
+
+html { box-sizing: border-box; }
+*, *:before, *:after { box-sizing: inherit; }
+body { margin: 0; }
+article, aside, figure, footer, header, aside, main, nav { display: block; }
+
+/****************************
+ * General
+ ****************************/
+
+body {
+  background: rgb(249, 245, 238);
+}
+
+/****************************
+ * Typography
+ ****************************/
+
+:root {
+  --fluid-min-width: 320;
+  --fluid-max-width: 1500;
+  --fluid-min-size: 17;
+  --fluid-max-size: 20;
+  --fluid-min-ratio: 1.33;
+  --fluid-max-ratio: 1.4;
+  
+  --fluid-screen: 100vw;
+  --fluid-bp: calc((var(--fluid-screen) - ((var(--fluid-min-width) / 16) * 1rem)) / ((var(--fluid-max-width) / 16) - (var(--fluid-min-width) / 16)));
+}
+
+@media screen and (min-width: 1500px) {
+  :root {
+    --fluid-screen: calc(var(--fluid-max-width) * 1px);
+  }
+}
+
+:root {
+  --fluid-min-scale-0: var(--fluid-min-ratio);
+  --fluid-min-scale-1: var(--fluid-min-scale-0) * var(--fluid-min-ratio);
+  --fluid-min-scale-2: var(--fluid-min-scale-1) * var(--fluid-min-ratio);
+  --fluid-min-scale-3: var(--fluid-min-scale-2) * var(--fluid-min-ratio);
+  --fluid-min-scale-4: var(--fluid-min-scale-3) * var(--fluid-min-ratio);
+  --fluid-min-scale-5: var(--fluid-min-scale-4) * var(--fluid-min-ratio);
+
+  --fluid-max-scale-0: var(--fluid-max-ratio);
+  --fluid-max-scale-1: var(--fluid-max-scale-0) * var(--fluid-max-ratio);
+  --fluid-max-scale-2: var(--fluid-max-scale-1) * var(--fluid-max-ratio);
+  --fluid-max-scale-3: var(--fluid-max-scale-2) * var(--fluid-max-ratio);
+  --fluid-max-scale-4: var(--fluid-max-scale-3) * var(--fluid-max-ratio);
+  --fluid-max-scale-5: var(--fluid-max-scale-4) * var(--fluid-max-ratio);
+
+  --fluid-min-size-0: (var(--fluid-min-size)) / 16;
+  --fluid-min-size-1: (var(--fluid-min-size) * var(--fluid-min-scale-0)) / 16;
+  --fluid-min-size-2: (var(--fluid-min-size) * var(--fluid-min-scale-1)) / 16;
+  --fluid-min-size-3: (var(--fluid-min-size) * var(--fluid-min-scale-2)) / 16;
+  --fluid-min-size-4: (var(--fluid-min-size) * var(--fluid-min-scale-3)) / 16;
+  --fluid-min-size-5: (var(--fluid-min-size) * var(--fluid-min-scale-4)) / 16;
+
+  --fluid-max-size-0: (var(--fluid-max-size)) / 16;
+  --fluid-max-size-1: (var(--fluid-max-size) * var(--fluid-max-scale-0)) / 16;
+  --fluid-max-size-2: (var(--fluid-max-size) * var(--fluid-max-scale-1)) / 16;
+  --fluid-max-size-3: (var(--fluid-max-size) * var(--fluid-max-scale-2)) / 16;
+  --fluid-max-size-4: (var(--fluid-max-size) * var(--fluid-max-scale-3)) / 16;
+  --fluid-max-size-5: (var(--fluid-max-size) * var(--fluid-max-scale-4)) / 16;
+
+  --fluid-0: calc(((var(--fluid-min-size-0) * 1rem) + (var(--fluid-max-size-0) - var(--fluid-min-size-0)) * var(--fluid-bp)));
+  --fluid-1: calc(((var(--fluid-min-size-1) * 1rem) + (var(--fluid-max-size-1) - var(--fluid-min-size-1)) * var(--fluid-bp)));
+  --fluid-2: calc(((var(--fluid-min-size-2) * 1rem) + (var(--fluid-max-size-2) - var(--fluid-min-size-2)) * var(--fluid-bp)));
+  --fluid-3: calc(((var(--fluid-min-size-3) * 1rem) + (var(--fluid-max-size-3) - var(--fluid-min-size-3)) * var(--fluid-bp)));
+  --fluid-4: calc(((var(--fluid-min-size-4) * 1rem) + (var(--fluid-max-size-4) - var(--fluid-min-size-4)) * var(--fluid-bp)));
+  --fluid-5: calc(((var(--fluid-min-size-5) * 1rem) + (var(--fluid-max-size-5) - var(--fluid-min-size-5)) * var(--fluid-bp)));
+}
+
+
+body {
+  font: 400 var(--fluid-0) / 1.6 Garamond, Baskerville, serif;
+}
+
+h1 {
+  font-weight: 900;
+  font-size: var(--fluid-4);
+}
+
+h2 {
+  font-size: var(--fluid-3);
+}
+
+h3 {
+  font-size: var(--fluid-2);
+}
+
+p, li, figcaption {
+  max-width: 60ch;
+}
+
+figcaption {
+  font-size: var(--fluid--0);
+}
+
+article p:first-of-type {
+  font-size: var(--fluid--1);
+  font-weight: 600;
+}
+
+blockquote {
+  --fluid-type-min: 1.2rem;
+  --fluid-type-max: 1.6rem;
+  border-left: 3px solid #ddd;
+  border-top: 3px solid #ddd;
+  background: #eee;
+  margin: 2em 2em;
+  padding: 1em;
+  display: block;
+  overflow: auto;
+}
+
+/****************************
+ * General Layout
+ ****************************/
+
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  min-height: 100vh;
+  align-content: space-between;
+  align-items: center;
+}
+
+footer {
+  flex: 1 1 auto;
+  width: 100%;
+  margin-top: var(--fluid-5);
+  border-top: 1px solid #444;
+  background: #ddd;
+  padding-top: calc(var(--fluid-1) * 2);
+  padding-right: var(--fluid-1);
+  padding-left: var(--fluid-1);
+}
+
+footer p { margin: var(--fluid-1) auto; }
+
+.footer-nav {
+  max-width: 60ch;
+  margin: auto;
+}
+
+.footer-nav ul {
+  padding: 0;
+  list-style: none;
+}
+
+main {
+  max-width: 1088px;
+  margin: auto;
+  padding-right: var(--fluid-1);
+  padding-left: var(--fluid-1);
+}
+
+main:focus {
+  outline: none;
+}
+
+figure {
+  margin: 2em 0 4em;
+  display: flex;
+  justify-content: flex-end;
+}
+
+figure img {
+  order: 2;
+  margin-left: 1.5em;;
+  align-self: flex-end;
+  max-width: 720px;
+}
+
+figure figcaption {
+  order: 1;
+  text-align: right;
+  opacity: 0.8;
+}
+
+figure:nth-child(odd) {
+  justify-content: flex-start;
+}
+
+figure:nth-child(odd) img {
+  order: 3;
+  margin-left: 0;
+  margin-right: 1.5em;
+  align-self: flex-start;
+}
+
+figure:nth-child(odd) figcaption {
+  order: 3;
+  text-align: left;
+}
+
+/****************************
+ * Navigation
+ ****************************/
+
+.show-on-focus {
+  height: 1px;
+  overflow: hidden;
+  position: absolute;
+  width: 1px;
+}
+
+.show-on-focus:focus {
+  clip: auto;
+  height: auto;
+  width: auto;
+  z-index: 20;
+}
+
+.main-navigation {
+  width: 100vw;
+  background: rgb(249, 245, 238);
+  z-index: 10;
+  display: flex;
+  flex-direction: column;
+  border-bottom: 1px solid #454545;
+  background: #e2e3e4;
+}
+
+a.logo {
+  font-size: var(--fluid-4);
+  margin: auto;
+  display: block;
+  text-decoration: underline;
+  color: #000;
+}
+
+.js .main-navigation.hidden { display: none; }
+
+.main-navigation ul {
+  list-style: none;
+  padding: 1em;
+  margin: auto;
+  text-align: center;
+}
+
+.main-navigation li {
+  display: block;
+  font-size: var(--fluid-0);
+  padding: 8px;
+}
+
+.main-navigation li a {
+  text-decoration: none;
+  color: #000;
+}
+
+.main-navigation li a:hover,
+.main-navigation li a:focus {
+  background: rgba(241, 195, 165);
+}
+
+.page-link {
+  border-top: 2px solid #000;
+}
+
+.menu-toggle {
+  position: absolute;
+  top: calc(var(--fluid-1) + 10px);
+  left: var(--fluid-1);
+  width: 44px;
+  height: 30px;
+}
+
+.menu-toggle span,
+.menu-toggle span::before,
+.menu-toggle span::after {
+  display: block;
+  position: absolute;
+  content: " ";
+  width: 44px;
+  height: 4px;
+  border-radius: 2px;
+  background: #000;
+  top: 0;
+  transition: all .2s ease-out;
+}
+
+.menu-toggle span::before { top: -10px; }
+.menu-toggle span::after { top: 10px; }
+.menu-toggle:hover span::before, .menu-toggle:focus span::before { top: -12px; }
+.menu-toggle:hover span::after, .menu-toggle:focus span::after { top: 12px; }
+
+.menu-toggle.active span { background: none; }
+.menu-toggle.active span::before {
+  transform: rotate(45deg);
+  top: 0;
+}
+.menu-toggle.active span::after {
+  transform: rotate(-45deg);
+  top: 0;
+}
+
+.chapter-navigation {
+  width: 100vw;
+  position: fixed;
+  top: 50%;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+  left: 0;
+  padding-right: var(--fluid-1);
+  padding-left: var(--fluid-1);
+  pointer-events: none;
+}
+
+.chapter-navigation a {
+  width: 44px;
+  height: 44px;
+  background: #f00;
+  border-radius: 22px;
+  text-indent: 99999px;
+  overflow: hidden;
+  position: relative;
+  transition: all .3s ease-out;
+  pointer-events: auto;
+}
+
+.chapter-navigation .previous::after,
+.chapter-navigation .next::after {
+  content: "⬅";
+  color: #fff;
+  position: absolute;
+  top: 53%;
+  left: 49%;
+  text-indent: 0;
+  transform: translate(-50%, -50%);
+}
+
+.chapter-navigation .next {
+  transform: rotate(180deg);
+}
+
+.chapter-navigation .previous:hover,
+.chapter-navigation .next:hover {
+  box-shadow: 0 0 8px rgba(0,0,0,0.4);
+}
