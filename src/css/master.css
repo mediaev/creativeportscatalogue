@@ -450,7 +450,7 @@ a.logo {
 .chapter-navigation a {
   width: 44px;
   height: 44px;
-  background: #f00;
+  background: #000;
   border-radius: 22px;
   text-indent: 99999px;
   overflow: hidden;
