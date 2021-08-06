@@ -1,9 +1,7 @@
 ---
-title: "Introduction 1"
+title: "Creative ports Internationalisation Tools"
 weight: 0
 ---
-
-## Creative ports Internationalisation Tools
 
 The Creative Ports project was developed to foster the internationalisation of the Cultural and Creative Industries (CCI) in the Baltic Sea Region.
 
