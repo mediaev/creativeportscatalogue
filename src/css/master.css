@@ -156,7 +156,7 @@ body {
 }
 
 h1 {
-  font-weight: 900;
+  font-weight: 400;
   font-size: var(--step-5);
   margin: 0 0 var(--space-s);
 }
@@ -173,16 +173,19 @@ h2 {
   font-size: var(--step-4);
   margin: var(--space-m) 0 var(--space-3xs);
   line-height: 1.25;
+  font-weight: 400;
 }
 
 h3 {
   font-size: var(--step-3);
   margin: var(--space-s) 0 var(--space-3xs);
+  font-weight: 400;
 }
 
 h4 {
   font-size: var(--step-2);
   margin: var(--space-s) 0 var(--space-3xs);
+  font-weight: 400;
 }
 
 p {
@@ -227,6 +230,9 @@ figcaption {
   text-decoration: none;
   color: #000;
   position: relative;
+  -ms-hyphens: auto;
+  -webkit-hyphens: auto;
+  hyphens: auto;
 }
 
 .toc a:hover, .toc a:focus {

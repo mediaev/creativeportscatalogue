@@ -11,6 +11,7 @@ weight: 5
 The majority of participants stated that the event was relevant for their work.
 
 ## Idea and Organisation
+
 The International Meet 'n’ Match event gave small and medium-sized enterprises (SMEs) and game developers inspiration for new ideas, methods and technologies and provided an opportunity for matchmaking and professional exchange.
 
 The tool is scalable and adaptable for other sectors within CCI, but at this International Meet ‘n’ Match, the focus was solely on the gaming industry.
@@ -21,12 +22,14 @@ Besides Creative Ports, Filmby Aarhus has held other international development p
 
  
 ## Aim and Target Group
+
 The general aim of the International Meet ‘n’ Match event was to provide a platform for game developers and other professionals within the gaming industry across the Baltic Sea Region to meet and find potential future business partners and create an international network. In the match sessions, companies had the opportunity to connect with and get feedback from several mentors over a short period.
 
 Other goals included improving the internationalisation of SMEs within the gaming industry in the Baltic Sea Region, experimenting with formats for informal digital networking and creating value through digital networking practices in precarious times. Therefore, an overall goal was to contribute to knowledge exchange within digitisation practices in the cultural and creative industries.
 
 
 ## The Program
+
 For International Meet ‘n’ Match, professionals within the gaming industry across the Batic Sea Region were invited to meet and find potential future business partners and create an international network.
 
 The two-hour event was held as a follow-up event to the one-day conference, “Digital Kids Today”, which was open to anyone who develops or engages in digital content, experiences and products for children.
@@ -36,6 +39,7 @@ The event’s objectives were to provide networking and contact building opportu
 The central part of the event was match sessions in which participating companies were grouped in breakout rooms where they had the opportunity to pitch, network and match. A moderator hosted the sessions and the companies were asked to prepare a four-minute pitch including answers to the four questions: Who are you? What are you working on right now? What skills can you offer to other projects? What skills are you seeking for your own projects?
 
 ### Event schedule
+
 * 13:30 Virtual Check-in
 * 13:45 Welcome and introduction of the format
 * 14:00 Match session 1
@@ -46,9 +50,10 @@ The central part of the event was match sessions in which participating companie
 
 
 ### Communication
+
 The organisers recruited companies in an open call for participation and developed the marketing material. The Creative Ports partner organisations helped spread the word in their respective social media channels and newsletters.
 
--> image
+<img src="/assets/images/tool_4/tool4_1.png" alt="" />
 
 ## Testimonials From Participants
 
@@ -56,7 +61,7 @@ The organisers recruited companies in an open call for participation and develop
 
 > “The online format for networking worked very well.”
 
--> image
+<img src="/assets/images/tool_4/tool4_2.png" alt="" />
 
 ## Lessons Learnt
 The event was held online due to Covid-19 restrictions, but ideally it would have happened physically. The online platform can be limiting when creating social connections and matchmaking, as participants can’t interact face-to-face. Conversations didn’t flow as naturally and the moderator’s role became more central to kick start topics.

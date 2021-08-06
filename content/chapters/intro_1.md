@@ -6,6 +6,7 @@ weight: 0
 The Creative Ports project was developed to foster the internationalisation of the Cultural and Creative Industries (CCI) in the Baltic Sea Region.
 
 The partnership comprised 14 partner organisations from the countries around the Baltic Sea – funding agencies, municipalities, international cultural institutes, and universities – who joined forces in a consortium led by the Goethe-Institut (DE). The Baltic Sea Region includes Denmark, Estonia, Finland, Latvia, Lithuania, Poland, Sweden and the northern parts of Germany as well as partner countries Norway and the northwest regions of Russia.
+
 The partner organisations all work with local cultural and creative actors and SMEs (small and medium-sized enterprises) and ensure the facilitation of transnational cooperation with peers from other regions. Companies and other players in the CCIs thereby unveiled opportunities for internationalisation and initiated joint value creation.
 
 Creative Ports was funded by the Interreg Baltic Sea Region Programme of the European Union. It was a flagship project of the EU Strategy for the Baltic Sea Region (EUSBSR) and its Policy Area Culture.
@@ -26,8 +27,7 @@ Since there are various definitions of Cultural and Creative Industries, the pro
 
 ### Tool development process
 
-First, the project partners filled in a survey and exchanged about possible internationalisation tools directed at CCI companies to get an overview of potential formats,
-events and so on. This was based on the partner organisations’ experiences of their own or other potential internationalisation activities. The results were then compiled in a list of 91 internationalisation tools, which is a source of inspiration for working with CCI companies and testing new formats. 
+First, the project partners filled in a survey and exchanged about possible internationalisation tools directed at CCI companies to get an overview of potential formats, events and so on. This was based on the partner organisations’ experiences of their own or other potential internationalisation activities. The results were then compiled in a list of 91 internationalisation tools, which is a source of inspiration for working with CCI companies and testing new formats. 
 
 The internationalisation tools include joint showcases, fair visits, festivals, acceleration programs and much more and are categorised into three different strands:
 1. Internationalisation support activities during international fairs/exhibitions/festivals or networking events

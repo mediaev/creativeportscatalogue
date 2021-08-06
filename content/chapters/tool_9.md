@@ -129,15 +129,13 @@ The communication strategy focussed on three main topics:
 
 (video and interviews with the designers after finishing the lab).
 
--> image
+<img src="/assets/images/tool_9/tool9_1.png" alt="" />
 
 ## Testimonials From Participants
 
 > “During the workshop I really enjoyed working in an interdisciplinary team and exchanging ideas and thoughts and thinking and learning about circular design. It was a great pleasure and I enjoyed it a lot!”
 
 > “The whole experience during Sustainable Design Lab reminded me how to play. I really enjoyed the prototyping process and of course it also underlined that we as designers and architects, design spaces and places for people and it should be done in the least harmful way.”
-
--> images
 
 ## Lessons Learnt
 

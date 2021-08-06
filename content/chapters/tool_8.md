@@ -72,8 +72,7 @@ Tallinn Creative Incubator prepared the general marketing material, which includ
 
 The event was not widely marketed because it was closed with a limited number of places. However, each partner was free to market the event in their home country however they saw fit.
 
--> image
-
+<img src="/assets/images/tool_8/tool8_1.jpg" alt="" />
 
 ## Testimonials From Participants
 

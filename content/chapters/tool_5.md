@@ -35,25 +35,28 @@ The program was divided into two parts. The first focused on key needs, the valu
 
 ### Event schedule
 
-Part 1 (1 March / 12 April)
-13:00 - Introduction
-13:30 - Key Needs & Value Expected
-15:00 - Challenges & Opportunities
-16:10 - Drivers of Change (i.e. change in social trends)
-16:40 - Summary and Wrap Up Discussion
-17:00 - The end
+#### Part 1 (1 March / 12 April)
 
-Part 2 (3 March / 14 April)
-13:00 - Design Principles
-13:45 - Solution-based idea generation
-15:45 - Conclusions & Action Plan
-17:00 - The end
+* _13:00_ - Introduction
+* _13:30_ - Key Needs & Value Expected
+* _15:00_ - Challenges & Opportunities
+* _16:10_ - Drivers of Change (i.e. change in social trends)
+* _16:40_ - Summary and Wrap Up Discussion
+* _17:00_ - The end
+
+#### Part 2 (3 March / 14 April)
+
+* _13:00_ - Design Principles
+* _13:45_ - Solution-based idea generation
+* _15:45_ - Conclusions & Action Plan
+* _17:00_ - The end
 
 ## Communication
 
 The invitation for ABCD Scanning Tool for CCI Internationalisation was first sent out to all Creative Ports partners. They were asked to forward the information to interested people from their networks. A Facebook event was created for each of the events, with regular reminder posts. Organisers sent a newsletter before each event with information for registration and the event goal and a review newsletter after the events. Cultural networks from the Baltic Sea Region and Muthesius University in Kiel were also asked to forward the information to their target groups.
 
--> images
+<img src="/assets/images/tool_5/tool5_1.jpg" alt="" />
+<img src="/assets/images/tool_5/tool5_2.jpg" alt="" />
 
 ## Testimonials From Participants
 
@@ -63,7 +66,9 @@ The invitation for ABCD Scanning Tool for CCI Internationalisation was first sen
 
 >“In the workshop I was given further tools that I can now use in the international aspects of my work.”
 
--> images
+<img src="/assets/images/tool_5/tool5_3.jpg" alt="" />
+<img src="/assets/images/tool_5/tool5_4.png" alt="" />
+<img src="/assets/images/tool_5/tool5_5.jpg" alt="" />
 
 ## Lessons Learnt
 From the perspective of the intermediary organisations, teamwork was important for understanding the point of view of various entities from the Baltic Sea Region and the possibility of increasing competencies in building internationalisation tools. The tool allowed the participating organisation to gain new skills and opened their eyes to the process of identifying barriers and benefits for CCI companies.

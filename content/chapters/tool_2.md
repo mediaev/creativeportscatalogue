@@ -25,8 +25,8 @@ It is the mission of the Danish Cultural Institute to contribute to strengthenin
 * 5 judging criteria: Creativity, uniqueness, innovation, team and market potential
 * 2 winners: Kira Shoes and Ette Tete (SIA Snores)
 
-<img src="/assets/tool2_1.jpg" alt="photo of people seated in an audience." />
-<img src="/assets/tool2_2.jpg" alt="photo of the backs of people seated in an audiece. focus on the presenter." />
+<img src="/assets/images/tool_2/tool2_1.jpg" alt="photo of people seated in an audience." />
+<img src="/assets/images/tool_2/tool2_2.jpg" alt="photo of the backs of people seated in an audiece. focus on the presenter." />
 
 ## Aim and Target Group
 
@@ -74,8 +74,8 @@ Internationalisation workshop (by Rasmus Wiinstedt Tscherning, Founder and Manag
 
 The events were communicated on websites, social media platforms and newsletters using videos, images and programme descriptions. Direct invitations were also sent out to relevant stakeholders and potential CCI participants.
 
-<img src="/assets/tool2_3.png" alt="" />
-<img src="/assets/tool2_4.jpg" alt="" />
+<img src="/assets/images/tool_2/tool2_3.png" alt="" />
+<img src="/assets/images/tool_2/tool2_4.jpg" alt="" />
 
 ### Testimonials from participants
 
