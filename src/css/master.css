@@ -19,102 +19,179 @@ body {
  * Typography
  ****************************/
 
+/* @link https://utopia.fyi/type/calculator?c=320,16,1.067,1140,20,1.2,5,2,&s=0.75|0.5|0.25,1.5|2|3|4|6,s-l */
+
 :root {
   --fluid-min-width: 320;
-  --fluid-max-width: 1500;
-  --fluid-min-size: 17;
-  --fluid-max-size: 20;
-  --fluid-min-ratio: 1.33;
-  --fluid-max-ratio: 1.4;
-  
+  --fluid-max-width: 1140;
+
   --fluid-screen: 100vw;
-  --fluid-bp: calc((var(--fluid-screen) - ((var(--fluid-min-width) / 16) * 1rem)) / ((var(--fluid-max-width) / 16) - (var(--fluid-min-width) / 16)));
+  --fluid-bp: calc(
+    (var(--fluid-screen) - var(--fluid-min-width) / 16 * 1rem) /
+      (var(--fluid-max-width) - var(--fluid-min-width))
+  );
 }
 
-@media screen and (min-width: 1500px) {
+@media screen and (min-width: 1140px) {
   :root {
     --fluid-screen: calc(var(--fluid-max-width) * 1px);
   }
 }
 
 :root {
-  --fluid-min-scale-0: var(--fluid-min-ratio);
-  --fluid-min-scale-1: var(--fluid-min-scale-0) * var(--fluid-min-ratio);
-  --fluid-min-scale-2: var(--fluid-min-scale-1) * var(--fluid-min-ratio);
-  --fluid-min-scale-3: var(--fluid-min-scale-2) * var(--fluid-min-ratio);
-  --fluid-min-scale-4: var(--fluid-min-scale-3) * var(--fluid-min-ratio);
-  --fluid-min-scale-5: var(--fluid-min-scale-4) * var(--fluid-min-ratio);
+  --f--2-min: 14.05;
+  --f--2-max: 13.89;
+  --step--2: calc(
+    ((var(--f--2-min) / 16) * 1rem) + (var(--f--2-max) - var(--f--2-min)) *
+      var(--fluid-bp)
+  );
 
-  --fluid-max-scale-0: var(--fluid-max-ratio);
-  --fluid-max-scale-1: var(--fluid-max-scale-0) * var(--fluid-max-ratio);
-  --fluid-max-scale-2: var(--fluid-max-scale-1) * var(--fluid-max-ratio);
-  --fluid-max-scale-3: var(--fluid-max-scale-2) * var(--fluid-max-ratio);
-  --fluid-max-scale-4: var(--fluid-max-scale-3) * var(--fluid-max-ratio);
-  --fluid-max-scale-5: var(--fluid-max-scale-4) * var(--fluid-max-ratio);
+  --f--1-min: 15.00;
+  --f--1-max: 16.67;
+  --step--1: calc(
+    ((var(--f--1-min) / 16) * 1rem) + (var(--f--1-max) - var(--f--1-min)) *
+      var(--fluid-bp)
+  );
 
-  --fluid-min-size-0: (var(--fluid-min-size)) / 16;
-  --fluid-min-size-1: (var(--fluid-min-size) * var(--fluid-min-scale-0)) / 16;
-  --fluid-min-size-2: (var(--fluid-min-size) * var(--fluid-min-scale-1)) / 16;
-  --fluid-min-size-3: (var(--fluid-min-size) * var(--fluid-min-scale-2)) / 16;
-  --fluid-min-size-4: (var(--fluid-min-size) * var(--fluid-min-scale-3)) / 16;
-  --fluid-min-size-5: (var(--fluid-min-size) * var(--fluid-min-scale-4)) / 16;
+  --f-0-min: 16.00;
+  --f-0-max: 20.00;
+  --step-0: calc(
+    ((var(--f-0-min) / 16) * 1rem) + (var(--f-0-max) - var(--f-0-min)) *
+      var(--fluid-bp)
+  );
 
-  --fluid-max-size-0: (var(--fluid-max-size)) / 16;
-  --fluid-max-size-1: (var(--fluid-max-size) * var(--fluid-max-scale-0)) / 16;
-  --fluid-max-size-2: (var(--fluid-max-size) * var(--fluid-max-scale-1)) / 16;
-  --fluid-max-size-3: (var(--fluid-max-size) * var(--fluid-max-scale-2)) / 16;
-  --fluid-max-size-4: (var(--fluid-max-size) * var(--fluid-max-scale-3)) / 16;
-  --fluid-max-size-5: (var(--fluid-max-size) * var(--fluid-max-scale-4)) / 16;
+  --f-1-min: 17.07;
+  --f-1-max: 24.00;
+  --step-1: calc(
+    ((var(--f-1-min) / 16) * 1rem) + (var(--f-1-max) - var(--f-1-min)) *
+      var(--fluid-bp)
+  );
 
-  --fluid-0: calc(((var(--fluid-min-size-0) * 1rem) + (var(--fluid-max-size-0) - var(--fluid-min-size-0)) * var(--fluid-bp)));
-  --fluid-1: calc(((var(--fluid-min-size-1) * 1rem) + (var(--fluid-max-size-1) - var(--fluid-min-size-1)) * var(--fluid-bp)));
-  --fluid-2: calc(((var(--fluid-min-size-2) * 1rem) + (var(--fluid-max-size-2) - var(--fluid-min-size-2)) * var(--fluid-bp)));
-  --fluid-3: calc(((var(--fluid-min-size-3) * 1rem) + (var(--fluid-max-size-3) - var(--fluid-min-size-3)) * var(--fluid-bp)));
-  --fluid-4: calc(((var(--fluid-min-size-4) * 1rem) + (var(--fluid-max-size-4) - var(--fluid-min-size-4)) * var(--fluid-bp)));
-  --fluid-5: calc(((var(--fluid-min-size-5) * 1rem) + (var(--fluid-max-size-5) - var(--fluid-min-size-5)) * var(--fluid-bp)));
+  --f-2-min: 18.22;
+  --f-2-max: 28.80;
+  --step-2: calc(
+    ((var(--f-2-min) / 16) * 1rem) + (var(--f-2-max) - var(--f-2-min)) *
+      var(--fluid-bp)
+  );
+
+  --f-3-min: 19.44;
+  --f-3-max: 34.56;
+  --step-3: calc(
+    ((var(--f-3-min) / 16) * 1rem) + (var(--f-3-max) - var(--f-3-min)) *
+      var(--fluid-bp)
+  );
+
+  --f-4-min: 20.74;
+  --f-4-max: 41.47;
+  --step-4: calc(
+    ((var(--f-4-min) / 16) * 1rem) + (var(--f-4-max) - var(--f-4-min)) *
+      var(--fluid-bp)
+  );
+
+  --f-5-min: 22.13;
+  --f-5-max: 49.77;
+  --step-5: calc(
+    ((var(--f-5-min) / 16) * 1rem) + (var(--f-5-max) - var(--f-5-min)) *
+      var(--fluid-bp)
+  );
 }
 
+/* @link https://utopia.fyi/space/calculator?c=320,16,1.2,1140,20,1.25,5,2,&s=0.75|0.5|0.25,1.5|2|3|4|6,s-l */
+
+:root {
+  --fc-3xs-min: (var(--fc-s-min) * 0.25);
+  --fc-3xs-max: (var(--fc-s-max) * 0.25);
+
+  --fc-2xs-min: (var(--fc-s-min) * 0.5);
+  --fc-2xs-max: (var(--fc-s-max) * 0.5);
+
+  --fc-xs-min: (var(--fc-s-min) * 0.75);
+  --fc-xs-max: (var(--fc-s-max) * 0.75);
+
+  --fc-s-min: (var(--f-0-min));
+  --fc-s-max: (var(--f-0-max));
+
+  --fc-m-min: (var(--fc-s-min) * 1.5);
+  --fc-m-max: (var(--fc-s-max) * 1.5);
+
+  --fc-l-min: (var(--fc-s-min) * 2);
+  --fc-l-max: (var(--fc-s-max) * 2);
+
+  --fc-xl-min: (var(--fc-s-min) * 3);
+  --fc-xl-max: (var(--fc-s-max) * 3);
+
+  --fc-2xl-min: (var(--fc-s-min) * 4);
+  --fc-2xl-max: (var(--fc-s-max) * 4);
+
+  --fc-3xl-min: (var(--fc-s-min) * 6);
+  --fc-3xl-max: (var(--fc-s-max) * 6);
+
+  /* T-shirt sizes */
+  --space-3xs: calc(((var(--fc-3xs-min) / 16) * 1rem) + (var(--fc-3xs-max) - var(--fc-3xs-min)) * var(--fluid-bp));
+  --space-2xs: calc(((var(--fc-2xs-min) / 16) * 1rem) + (var(--fc-2xs-max) - var(--fc-2xs-min)) * var(--fluid-bp));
+  --space-xs: calc(((var(--fc-xs-min) / 16) * 1rem) + (var(--fc-xs-max) - var(--fc-xs-min)) * var(--fluid-bp));
+  --space-s: calc(((var(--fc-s-min) / 16) * 1rem) + (var(--fc-s-max) - var(--fc-s-min)) * var(--fluid-bp));
+  --space-m: calc(((var(--fc-m-min) / 16) * 1rem) + (var(--fc-m-max) - var(--fc-m-min)) * var(--fluid-bp));
+  --space-l: calc(((var(--fc-l-min) / 16) * 1rem) + (var(--fc-l-max) - var(--fc-l-min)) * var(--fluid-bp));
+  --space-xl: calc(((var(--fc-xl-min) / 16) * 1rem) + (var(--fc-xl-max) - var(--fc-xl-min)) * var(--fluid-bp));
+  --space-2xl: calc(((var(--fc-2xl-min) / 16) * 1rem) + (var(--fc-2xl-max) - var(--fc-2xl-min)) * var(--fluid-bp));
+  --space-3xl: calc(((var(--fc-3xl-min) / 16) * 1rem) + (var(--fc-3xl-max) - var(--fc-3xl-min)) * var(--fluid-bp));
+
+  /* One-up pairs */
+  --space-3xs-2xs: calc(((var(--fc-3xs-min) / 16) * 1rem) + (var(--fc-2xs-max) - var(--fc-3xs-min)) * var(--fluid-bp));
+  --space-2xs-xs: calc(((var(--fc-2xs-min) / 16) * 1rem) + (var(--fc-xs-max) - var(--fc-2xs-min)) * var(--fluid-bp));
+  --space-xs-s: calc(((var(--fc-xs-min) / 16) * 1rem) + (var(--fc-s-max) - var(--fc-xs-min)) * var(--fluid-bp));
+  --space-s-m: calc(((var(--fc-s-min) / 16) * 1rem) + (var(--fc-m-max) - var(--fc-s-min)) * var(--fluid-bp));
+  --space-m-l: calc(((var(--fc-m-min) / 16) * 1rem) + (var(--fc-l-max) - var(--fc-m-min)) * var(--fluid-bp));
+  --space-l-xl: calc(((var(--fc-l-min) / 16) * 1rem) + (var(--fc-xl-max) - var(--fc-l-min)) * var(--fluid-bp));
+  --space-xl-2xl: calc(((var(--fc-xl-min) / 16) * 1rem) + (var(--fc-2xl-max) - var(--fc-xl-min)) * var(--fluid-bp));
+  --space-2xl-3xl: calc(((var(--fc-2xl-min) / 16) * 1rem) + (var(--fc-3xl-max) - var(--fc-2xl-min)) * var(--fluid-bp));
+
+  /* Custom pairs */
+  --space-s-l: calc(((var(--fc-s-min) / 16) * 1rem) + (var(--fc-l-max) - var(--fc-s-min)) * var(--fluid-bp));
+}
 
 body {
-  font: 400 var(--fluid-0) / 1.6 Garamond, Baskerville, serif;
+  font: 400 var(--step-0) / 1.6 Garamond, Baskerville, serif;
 }
 
 h1 {
   font-weight: 900;
-  font-size: var(--fluid-4);
+  font-size: var(--step-5);
+  margin: 0 0 var(--space-s);
 }
 
 h2 {
-  font-size: var(--fluid-3);
+  font-size: var(--step-4);
+  margin: var(--space-m) 0 var(--space-3xs);
+  line-height: 1.25;
 }
 
 h3 {
-  font-size: var(--fluid-2);
+  font-size: var(--step-3);
+  margin: var(--space-s) 0 var(--space-3xs);
 }
 
-p, li, figcaption {
-  max-width: 60ch;
+h4 {
+  font-size: var(--step-2);
+  margin: var(--space-s) 0 var(--space-3xs);
+}
+
+p {
+  font-size: var(--step-0);
+  margin: 0 0 var(--space-s);
+}
+
+ul {
+  margin: 0 0 var(--space-s);
+}
+
+li {
+  font-size: var(--step-0);
 }
 
 figcaption {
-  font-size: var(--fluid--0);
-}
-
-article p:first-of-type {
-  font-size: var(--fluid--1);
-  font-weight: 600;
-}
-
-blockquote {
-  --fluid-type-min: 1.2rem;
-  --fluid-type-max: 1.6rem;
-  border-left: 3px solid #ddd;
-  border-top: 3px solid #ddd;
-  background: #eee;
-  margin: 2em 2em;
-  padding: 1em;
-  display: block;
-  overflow: auto;
+  font-size: var(--step-0);
 }
 
 /****************************
@@ -128,20 +205,21 @@ blockquote {
   min-height: 100vh;
   align-content: space-between;
   align-items: center;
+  padding-top: var(--space-3xl);
 }
 
 footer {
   flex: 1 1 auto;
   width: 100%;
-  margin-top: var(--fluid-5);
+  margin-top: var(--step-5);
   border-top: 1px solid #444;
   background: #ddd;
-  padding-top: calc(var(--fluid-1) * 2);
-  padding-right: var(--fluid-1);
-  padding-left: var(--fluid-1);
+  padding-top: calc(var(--step-1) * 2);
+  padding-right: var(--step-1);
+  padding-left: var(--step-1);
 }
 
-footer p { margin: var(--fluid-1) auto; }
+footer p { margin: var(--step-1) auto; }
 
 .footer-nav {
   max-width: 60ch;
@@ -154,50 +232,48 @@ footer p { margin: var(--fluid-1) auto; }
 }
 
 main {
-  max-width: 1088px;
+  max-width: 960px;
   margin: auto;
-  padding-right: var(--fluid-1);
-  padding-left: var(--fluid-1);
+  padding: 0 var(--space-2xl);
 }
 
 main:focus {
   outline: none;
 }
 
-figure {
-  margin: 2em 0 4em;
-  display: flex;
-  justify-content: flex-end;
+article {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  max-width: 100%;
+  column-gap: 16px;
 }
 
-figure img {
-  order: 2;
-  margin-left: 1.5em;;
-  align-self: flex-end;
-  max-width: 720px;
+@media all and (max-width: 720px) {
+  article { display: block; }
 }
 
-figure figcaption {
-  order: 1;
-  text-align: right;
-  opacity: 0.8;
+article > * {
+  grid-column-start: 1;
+  grid-column-end: span 2;
 }
 
-figure:nth-child(odd) {
-  justify-content: flex-start;
+article img {
+  grid-column-start: 2;
+  grid-column-end: span 2;
+  max-width: 100%;
+  margin: var(--space-xs) 0;
+  display: block;
 }
 
-figure:nth-child(odd) img {
-  order: 3;
-  margin-left: 0;
-  margin-right: 1.5em;
-  align-self: flex-start;
+article blockquote {
+  padding: 0 var(--spacing-l);
+  margin-bottom: var(--spacing-l);
 }
 
-figure:nth-child(odd) figcaption {
-  order: 3;
-  text-align: left;
+blockquote p {
+  margin: 0;
 }
+
 
 /****************************
  * Navigation
@@ -228,7 +304,7 @@ figure:nth-child(odd) figcaption {
 }
 
 a.logo {
-  font-size: var(--fluid-4);
+  font-size: var(--step-4);
   margin: auto;
   display: block;
   text-decoration: underline;
@@ -246,7 +322,7 @@ a.logo {
 
 .main-navigation li {
   display: block;
-  font-size: var(--fluid-0);
+  font-size: var(--step-0);
   padding: 8px;
 }
 
@@ -266,8 +342,8 @@ a.logo {
 
 .menu-toggle {
   position: absolute;
-  top: calc(var(--fluid-1) + 10px);
-  left: var(--fluid-1);
+  top: calc(var(--step-1) + 10px);
+  left: var(--step-1);
   width: 44px;
   height: 30px;
 }
@@ -309,8 +385,8 @@ a.logo {
   justify-content: space-between;
   flex-direction: row;
   left: 0;
-  padding-right: var(--fluid-1);
-  padding-left: var(--fluid-1);
+  padding-right: var(--step-1);
+  padding-left: var(--step-1);
   pointer-events: none;
 }
 
