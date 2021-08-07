@@ -3,7 +3,7 @@ bodyClass: home
 ---
 {% extends "./base.html" %} {% block content %}
   <img src="{{ site.logo }}" alt="{{ site.title }}" width="360" height="122" />
-  <h1>{{ title }}</h1>
+  <h1><span>{{ title }}</span></h1>
   {{ content | safe }}
   <ol class="toc">
     {%- for chapter in collections.chapters -%}
