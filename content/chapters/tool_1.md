@@ -18,8 +18,6 @@ The Westpomeranian Region organised the Baltic Home exhibition. West Pomerania i
 * 74 exhibits
 * 20 partners
 
-<img src="/assets/images/tool_1/tool1_1.png" alt="" />
-
 ## Aim and target group
 
 The overarching goal of Baltic Home was to strengthen networks and collaborations between international cultural and creative industry intermediary organisations and local creators from the Baltic Sea countries. In the process, the intermediaries discovered the potential and diversity of the Baltic Sea cultural and creative sector.
@@ -37,6 +35,8 @@ The exhibition’s central theme was the sea, a salient feature that both border
 > “We can see that the sea inspires designers in various fields. In most of them, we can find references to the philosophy of creating mindfulness and respect for craftsmanship, but above all to nature.” - Baltic Home curators.
 
 Given the exhibition took place in the context of a global pandemic, an opportunity arose to transport the public out of their everyday lives, into another world. The exhibition did this through careful curation and layout in the form of a home, with different rooms to enter and explore. Each object gives pause for thought and the chance to learn about the specific design approach and heritage of each country represented. The objects presented became ambassadors of each country.
+
+<img src="/assets/images/tool_1/tool1_1.png" alt="" />
 
 ## Communication
 
