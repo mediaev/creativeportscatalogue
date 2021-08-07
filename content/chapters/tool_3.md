@@ -3,6 +3,10 @@ title: "Tool 3: The Mesh Festival"
 weight: 4
 ---
 
+### Idea and Organisation
+
+MESH Festival was a virtual pick-and-choose online festival that mixed inspiring talks, interactive workshops and roundtable discussions with linear TV, film streaming, artist showcases and other activities. It spanned design, sustainability and technology. The entire festival was free to attend.  The digital festival was organised by Media Evolution, an organisation driven by the mission to foster growth and innovation in the digital and creative industries of southern Sweden. The core of the organisation is the member community and a platform for sharing ideas, developing competencies and driving innovation for the members. Media Evolution also pursues pioneering projects, locally and globally to create new markets for the members.
+
 ## Mesh Festical in Figures
 
 * 400 participants
@@ -10,10 +14,6 @@ weight: 4
 * 16 happenings
 * 7 showcases
 * 80% said that the event was relevant for their work
-
-### Idea and Organisation
-
-MESH Festival was a virtual pick-and-choose online festival that mixed inspiring talks, interactive workshops and roundtable discussions with linear TV, film streaming, artist showcases and other activities. It spanned design, sustainability and technology. The entire festival was free to attend.  The digital festival was organised by Media Evolution, an organisation driven by the mission to foster growth and innovation in the digital and creative industries of southern Sweden. The core of the organisation is the member community and a platform for sharing ideas, developing competencies and driving innovation for the members. Media Evolution also pursues pioneering projects, locally and globally to create new markets for the members.
 
 ### Aim and Target Group
 
