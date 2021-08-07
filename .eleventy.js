@@ -2,7 +2,6 @@ const markdownIt = require('markdown-it');
 const markdownItFootnote = require('markdown-it-footnote');
 
 module.exports = (eleventyConfig) => {
-
   let markdownLibrary = markdownIt({
     html: true,
     breaks: true,
@@ -27,6 +26,15 @@ module.exports = (eleventyConfig) => {
     return collection
       .getFilteredByGlob('./content/pages/*.md')
   });
+
+  // Replace the way footnote references are rendered inline
+  markdownLibrary.renderer.rules.footnote_caption = function (tokens, idx) {
+    var n = Number(tokens[idx].meta.id + 1).toString();
+    if (tokens[idx].meta.subId > 0) {
+      n += ':' + tokens[idx].meta.subId;
+    }
+    return  n;
+  };
 
   return {
     markdownTemplateEngine: 'njk',
