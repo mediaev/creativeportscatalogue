@@ -1,9 +1,7 @@
 ---
-title: "Introduction 2"
+title: "Internationalisation in a Pandemic"
 weight: 1
 ---
-
-## Internationalisation in a Pandemic
 
 While the roots for the overall idea of Creative Ports date back to 2013/2014 and included workshops for cultural and creative entrepreneurs in the Baltic Sea Region, the application process for the successful project started in 2017. This included the realisation of internationalisation tools in the project as the main idea. After approval, the consortium began work at the end of 2018 and throughout 2019 the partners developed and refined the internationalisation tools. 
 
