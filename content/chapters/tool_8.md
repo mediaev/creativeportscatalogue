@@ -28,6 +28,8 @@ The event’s goal was to enable all participating project partners to both offe
 
 As environmental problems become more critical, fashion brands need to change their business models and adopt more sustainable practices to remain current and responsible. Export Speed Mentoring focused on helping young designers to think about the impact of their products. Participants received individual feedback and ideas from circular economy experts about making their business models more sustainable.
 
+<img src="/assets/images/tool_8/tool8_1.jpg" alt="" />
+
 ## The Program
 
 The event lasted four hours and was held online on the Zoom platform. The event started with an inspirational talk by Irbe Šmite (Gateway&Partners) and Kadi Kenk (Let's Do it Foundation). Export consultant, Šmite, shared her experience of working with young fashion brands entering foreign markets and gave the designers advice on what to consider when doing business abroad. Kadi Kenk explained why brands today should reconsider their business models and adopt circular principles.
@@ -71,8 +73,6 @@ Tallinn Creative Incubator prepared the general marketing material, which includ
 * Application forms for the participants
 
 The event was not widely marketed because it was closed with a limited number of places. However, each partner was free to market the event in their home country however they saw fit.
-
-<img src="/assets/images/tool_8/tool8_1.jpg" alt="" />
 
 ## Testimonials From Participants
 
