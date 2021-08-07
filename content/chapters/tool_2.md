@@ -25,9 +25,6 @@ It is the mission of the Danish Cultural Institute to contribute to strengthenin
 * 5 judging criteria: Creativity, uniqueness, innovation, team and market potential
 * 2 winners: Kira Shoes and Ette Tete (SIA Snores)
 
-<img src="/assets/images/tool_2/tool2_1.jpg" alt="photo of people seated in an audience." />
-<img src="/assets/images/tool_2/tool2_2.jpg" alt="photo of the backs of people seated in an audiece. focus on the presenter." />
-
 ## Aim and Target Group
 
 The aim of Pitching for a Better Baltic Sea was to gather startups, SMEs, incubators and CCI organisations from the Baltic Sea Region and show how the UN Sustainable Development Goals can create value, give direction and lead towards the innovation and investments of the future.
@@ -36,9 +33,13 @@ Moreover, Pitching for a Better Baltic Sea aimed to ensure that participating co
 
 Participants of Pitching for a Better Baltic Sea expanded their network and gained a greater understanding of existing transnational cooperation and financing possibilities. They also acquired new contacts by networking with each other, meeting local companies, incubators, CCI support organisations, experts and other CCI actors.
 
+<img src="/assets/images/tool_2/tool2_1.jpg" alt="photo of people seated in an audience." />
+
 ## The Program
 
 The Pitching for a Better Baltic Sea internationalisation tool was split into two concrete sets of pilot activities. The first taking place on the 28th - 29th of October 2019, the second a year later. The 2019 activities took place as a physical event and included two Baltic sea region countries, Denmark and Latvia. The organisers had to turn the 2020 activities into a virtual event with partners and participants from five countries: Denmark, Sweden, Latvia, Estonia and Germany.
+
+<img src="/assets/images/tool_2/tool2_2.jpg" alt="photo of the backs of people seated in an audiece. focus on the presenter." />
 
 ### Pitching for a Better Baltic Sea 2019
 
@@ -75,7 +76,6 @@ Internationalisation workshop (by Rasmus Wiinstedt Tscherning, Founder and Manag
 The events were communicated on websites, social media platforms and newsletters using videos, images and programme descriptions. Direct invitations were also sent out to relevant stakeholders and potential CCI participants.
 
 <img src="/assets/images/tool_2/tool2_3.png" alt="" />
-<img src="/assets/images/tool_2/tool2_4.jpg" alt="" />
 
 ### Testimonials from participants
 
