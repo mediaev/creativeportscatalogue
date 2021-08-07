@@ -6,13 +6,15 @@ menuToggle.addEventListener('click', (e) => {
   menu.classList.toggle('hidden');
 });
 
-document.querySelectorAll('.footnote-item p').forEach((footnote) => {
-  const parent = footnote.parentNode;
-  const id = parent.id;
-  const copy = footnote.cloneNode(true);
+document.querySelectorAll('.footnote-item').forEach((footnote) => {
+  const id = footnote.id;
   const wrapper = document.createElement('div');
   wrapper.classList.add('footnote-reference', 'hidden');
-  wrapper.appendChild(copy);
+  const innerWrapper = document.createElement('div');
+  wrapper.appendChild(innerWrapper);
+  footnote.childNodes.forEach((child) => {
+    innerWrapper.appendChild(child.cloneNode(true));
+  });
   const backLink = wrapper.querySelector('.footnote-backref')
   backLink.parentNode.removeChild(backLink);
 

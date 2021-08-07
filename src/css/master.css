@@ -353,11 +353,17 @@ blockquote p {
   grid-row-end: span 3;
 }
 
-.footnote-reference p {
-  font-size: var(--step--1);
+.footnote-reference > div {
   padding: var(--space-xs);
   background: #eee;
   border-radius: 8px;
+}
+
+.footnote-reference p {
+  font-size: var(--step--1);
+}
+.footnote-reference p:last-child {
+  margin-bottom: 0;
 }
 
 /****************************
@@ -497,4 +503,14 @@ a.logo {
 
 .chapter-navigation .previous {
   transform: rotate(180deg);
+}
+
+article a, footer a {
+  color: currentcolor;
+  text-decoration: none;
+  border-bottom: 1px solid currentcolor;
+}
+
+article a:hover, footer a:hover {
+  border-bottom: 0;
 }
