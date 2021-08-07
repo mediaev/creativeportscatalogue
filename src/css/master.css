@@ -477,8 +477,7 @@ a.logo {
 .chapter-navigation a {
   width: 44px;
   height: 44px;
-  background: #000;
-  border-radius: 22px;
+  background: url('arrow.svg') center center no-repeat;
   text-indent: 99999px;
   overflow: hidden;
   position: relative;
@@ -488,8 +487,7 @@ a.logo {
 
 .chapter-navigation .previous::after,
 .chapter-navigation .next::after {
-  content: "⬅";
-  color: #fff;
+  content: " ";
   position: absolute;
   top: 53%;
   left: 49%;
@@ -497,11 +495,6 @@ a.logo {
   transform: translate(-50%, -50%);
 }
 
-.chapter-navigation .next {
+.chapter-navigation .previous {
   transform: rotate(180deg);
-}
-
-.chapter-navigation .previous:hover,
-.chapter-navigation .next:hover {
-  box-shadow: 0 0 8px rgba(0,0,0,0.4);
 }
