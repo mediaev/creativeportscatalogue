@@ -43,9 +43,9 @@ The “Gains and Pains of Circular Economy” panellists included:
 
 As most CCI intermediaries and creative companies' understanding of sustainable design is often limited to material choice, it is vital to expand the target groups' knowledge about different circular business practices. To achieve this, Tallinn Creative Incubator produced an educational video series: “How to Design Products Following the Principles of the Circular Economy?” The video series aimed to introduce different circular design principles and share success stories of design companies that are practising them. The first video was published at the MELT conference before the panel discussion.
 
-<img src="/assets/images/tool_7/tool7_1.png" alt="" />
-
 [Videos from the event](https://inkubaator.tallinn.ee/ringmajandus/).
+
+<img src="/assets/images/tool_7/tool7_1.png" alt="" />
 
 ## Communication
 
