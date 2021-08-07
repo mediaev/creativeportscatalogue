@@ -3,23 +3,16 @@ title: "Tool 9: Sustainable Design Lab"
 weight: 10
 ---
 
-## Sustainable Design Lab in Figures
-
-* 13 designers
-* 3 countries
-* 3 hosts
-* 5 prototypes
-
-**When:**
-* 19 & 20 March
-* 7 & 8 May
-* 10 & 11 June
-* Final presentation: 10 June
-
 ## Idea and Organisation
 The Sustainable Design Lab was an international prototyping Lab for designers of different disciplines. It brought together designers from Mikkeli, Riga and Hamburg to jointly build prototypes for sustainable design in three 1.5-day sessions between March and June 2021. The aim was to network and exchange ideas in an international environment by working on prototypes that tackle one of today’s major challenges for design: sustainability.
 
 The organiser of Sustainable Design Lab, Hamburg Kreativ Gesellschaft, supports Hamburg’s creative industry with knowledge, space, financing and innovation. In addition to workshops, lectures and networking events, they also offer individual consulting, coaching, crowdfunding and assistance in financing and finding suitable workspaces. They cater for authors, filmmakers, musicians, visual and performing artists, architects, designers, game developers and other professional groups from the eleven submarkets of the creative industries.
+
+## Sustainable Design Lab in Figures
+* 13 designers
+* 3 countries
+* 3 hosts
+* 5 prototypes
 
 ## Aim and Target Group
 A central aim of the Sustainable Design Lab was to encourage idea exchange in sustainable design among companies and individual designers. Furthermore, the aim was to demonstrate digital collaboration tools, benefit from working in an interdisciplinary and international peer group and educate designers on entering the global design market.
@@ -29,6 +22,8 @@ In addition to the aims above, the Sustainable Design Lab focused on using desig
 For intermediary organisations, the Sustainable Design Lab presented an opportunity to gather new insights on workshop methods and the use of technology.
 
 Participating designers naturally expanded their network in the Baltic Sea region by collaborating with different international designers, getting to know CCI support organisations, experts and local companies.
+
+<img src="/assets/images/tool_9/tool9_1.png" alt="" />
 
 ## The Program
 
@@ -128,8 +123,6 @@ The communication strategy focussed on three main topics:
 3. The experience of the designers.
 
 (video and interviews with the designers after finishing the lab).
-
-<img src="/assets/images/tool_9/tool9_1.png" alt="" />
 
 ## Testimonials From Participants
 
