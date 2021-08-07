@@ -1,14 +1,7 @@
 ---
-title: "Tool 4: International Meet 'n Match"
+title: "Tool 4: International Meet 'n' Match"
 weight: 5
 ---
-
-## International Meet'n’Match in Figures
-
-* 7 companies
-* 2 hours
-
-The majority of participants stated that the event was relevant for their work.
 
 ## Idea and Organisation
 
@@ -20,7 +13,12 @@ Filmby Aarhus (Denmark) is the Aarhus municipality centre for film, media produc
 
 Besides Creative Ports, Filmby Aarhus has held other international development projects, such as the Interreg BSR projects First Motion and Cross Motion and the NSR projects North Sea Screen Partners and Create Converge, which ran until July 2020. Filmby Aarhus also runs Ideas Lab, an incubator where startups working with digital experiences can work and grow through structured sparring.
 
- 
+## International Meet 'n’ Match in Figures
+
+* 7 companies
+* 2 hours
+* The majority of participants stated that the event was relevant for their work.
+
 ## Aim and Target Group
 
 The general aim of the International Meet ‘n’ Match event was to provide a platform for game developers and other professionals within the gaming industry across the Baltic Sea Region to meet and find potential future business partners and create an international network. In the match sessions, companies had the opportunity to connect with and get feedback from several mentors over a short period.
