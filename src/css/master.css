@@ -481,9 +481,10 @@ a.logo {
 }
 
 .chapter-navigation a {
-  width: 44px;
-  height: 44px;
+  width: 32px;
+  height: 32px;
   background: url('arrow.svg') center center no-repeat;
+  background-size: contain;
   text-indent: 99999px;
   overflow: hidden;
   position: relative;
