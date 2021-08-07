@@ -167,6 +167,8 @@ h1 {
   -webkit-hyphens: auto;
   -ms-hypens: auto;
   hyphens: auto;
+  margin: var(--space-xl) 0 ;
+  line-height: 1.2;
 }
 
 h2 {
@@ -257,15 +259,29 @@ figcaption {
 footer {
   flex: 1 1 auto;
   width: 100%;
-  margin-top: var(--step-5);
-  border-top: 1px solid #444;
-  background: #ddd;
-  padding-top: calc(var(--step-1) * 2);
-  padding-right: var(--step-1);
-  padding-left: var(--step-1);
+  margin: var(--space-3xl) auto;
+  display: grid;
+  grid-template-columns: repeat(2, 50%);
+  grid-row-gap: var(--space-l);
+  max-width: 960px;
+  padding: 0 var(--space-2xl);
+  border-top: 3px solid #eee;
+}
+
+.home footer { max-width: 1300px; padding: 0 var(--space-3xl) }
+
+@media all and (max-width: 720px) {
+  footer { grid-template-columns: 100%; }
 }
 
 footer p { margin: var(--step-1) auto; }
+
+footer nav {
+  align-self: start;
+  justify-self: start;
+}
+
+footer img { max-width: 100%; grid-column-end: span 2; }
 
 .footer-nav {
   max-width: 60ch;
@@ -364,12 +380,10 @@ blockquote p {
 
 .main-navigation {
   width: 100vw;
-  background: rgb(249, 245, 238);
   z-index: 10;
   display: flex;
   flex-direction: column;
-  border-bottom: 1px solid #454545;
-  background: #e2e3e4;
+  background: #fafafa;
 }
 
 a.logo {
@@ -378,21 +392,23 @@ a.logo {
   display: block;
   text-decoration: underline;
   color: #000;
+  margin-bottom: var(--space-xl);
 }
 
 .js .hidden { display: none; }
 
+.main-navigation {
+  padding: var(--space-2xl);
+}
+
 .main-navigation ul {
   list-style: none;
-  padding: 1em;
+  max-width: 960px;
   margin: auto;
-  text-align: center;
 }
 
 .main-navigation li {
-  display: block;
-  font-size: var(--step-0);
-  padding: 8px;
+  font-size: var(--step-1);
 }
 
 .main-navigation li a {
@@ -406,7 +422,6 @@ a.logo {
 }
 
 .page-link {
-  border-top: 2px solid #000;
 }
 
 .menu-toggle {

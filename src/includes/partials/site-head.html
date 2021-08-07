@@ -3,8 +3,14 @@
   {% if page.url != '/' %}
   <div class="">
     <nav class="main-navigation hidden" aria-label="Primary">
-      <a href="/" class="logo">{{ site.title }}</a>
-      <ul>
+      <a href="/" class="logo">
+        {% if site.logo %}
+          <img width="180" height="61" src="{{ site.logo }}" alt="{{ site.title }}" />
+        {% else %}
+          {{ site.title }}
+        {% endif %}
+      </a>
+      <ul class="toc">
         <li><a href="/">Home</a></li>
         {%- for chapter in collections.chapters -%}
         <li>

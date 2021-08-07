@@ -1,10 +1,12 @@
 <footer>
-  <p>
-    Creative Ports is a project with the aim improve and encourage collaboration between the Cultural and Creative Industries (CCI) actors of the participating countries and to further develop strategies and processes around internationalisation.
-  </p>
-  <p>
-    The project is funded by the Interreg Baltic Sea Region Programme of the European Union. It is a flagship project of the EU Strategy for the Baltic Sea Region (EUSBSR) and PA Culture.
-  </p>
+  <div>
+    <p>
+      Creative Ports is a project with the aim improve and encourage collaboration between the Cultural and Creative Industries (CCI) actors of the participating countries and to further develop strategies and processes around internationalisation.
+    </p>
+    <p>
+      The project is funded by the Interreg Baltic Sea Region Programme of the European Union. It is a flagship project of the EU Strategy for the Baltic Sea Region (EUSBSR) and PA Culture.
+    </p>
+  </div>
 
   <nav class="footer-nav" aria-label="Secondary">
     <ul>
@@ -17,4 +19,8 @@
       {%- endfor -%}
     </ul>
   </nav>
+
+  {% if site.footerImage %}
+    <img src="{{ site.footerImage }}" alt="" />
+  {% endif %}
 </footer>
