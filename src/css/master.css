@@ -331,6 +331,18 @@ blockquote p {
   margin: 0;
 }
 
+.footnote-reference {
+  grid-column-start: 3;
+  grid-column-end: unset;
+  grid-row-end: span 3;
+}
+
+.footnote-reference p {
+  font-size: var(--step--1);
+  padding: var(--space-xs);
+  background: #eee;
+  border-radius: 8px;
+}
 
 /****************************
  * Navigation
@@ -368,7 +380,7 @@ a.logo {
   color: #000;
 }
 
-.js .main-navigation.hidden { display: none; }
+.js .hidden { display: none; }
 
 .main-navigation ul {
   list-style: none;
