@@ -5,6 +5,8 @@ bodyClass: home
   <img src="{{ site.logo }}" alt="{{ site.title }}" width="360" height="122" />
   <h1><span>{{ title }}</span></h1>
   {{ content | safe }}
+
+  <h2>Chapters:</h2>
   <ol class="toc">
     {%- for chapter in collections.chapters -%}
     <li>
@@ -14,4 +16,10 @@ bodyClass: home
     </li>
     {%- endfor -%}
   </ol>
+
+  <nav class="chapter-navigation">
+    <div></div>
+    {% set first = collections.chapters | first %}
+    <a href="{{ first.url }}" title="{{ first.data.titla }}" class="next"> </a>
+  </nav>
 {% endblock %}

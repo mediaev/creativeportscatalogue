@@ -36,6 +36,12 @@ module.exports = (eleventyConfig) => {
     return  n;
   };
 
+  markdownLibrary.renderer.rules.footnote_block_open = function (tokens, idx, options) {
+  return '<section class="footnotes">\n' +
+         '<h5>References</h5>\n' +
+         '<ol class="footnotes-list">\n';
+  };
+
   return {
     markdownTemplateEngine: 'njk',
     dataTemplateEngine: 'njk',
