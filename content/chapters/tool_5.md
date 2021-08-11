@@ -5,7 +5,9 @@ weight: 6
 
 ## Idea and Organisation
 
-ABCD Scanning Tool for CCI Internationalisation gathered intermediaries and cultural practitioners in online sessions to facilitate discussions in an open environment curated to create solutions and achieve synergies for and with the participants. The tool is an extension of previous successful tools developed by the organiser, ARS BALTICA.
+ABCD Scanning Tool for CCI Internationalisation gathered intermediaries and cultural practitioners in online sessions to facilitate discussions in an open environment curated to create solutions and achieve synergies for and with the participants. The tool is an extension of previous successful tools developed by the organiser, [ARS BALTICA](https://www.ars-baltica.net/homepage).
+
+<img src="/assets/images/tool_5/tool5_4.png" alt="" />
 
 The network ARS BALTICA supports the implementation of artistic/cultural projects with a strong focus on the Baltic Sea Region. It offers platforms for the exchange of knowledge and experience in the field of (cross-)cultural co-operation. Thus, it adds value to existing projects and co-operation models through active networking from a higher perspective.
 
@@ -30,6 +32,8 @@ More specifically, ABCD Scanning Tool for CCI Internationalisation aimed to coll
 
 ## The Program
 The program consisted of two four-hour sessions repeated twice on the 1st and 3rd of March 2021 and then again on the 12th and 14th of April. The event was facilitated by Henryk Stawicki and Justyna Turek from Change Pilots and moderated by ARS BALTICA.
+
+<img src="/assets/images/tool_5/tool5_3.jpg" alt="" />
 
 The program was divided into two parts. The first focused on key needs, the value expected, challenges, opportunities and trends, while the second part discussed potential practical solutions and actionable items. All participants received a brief for mapping the most urgent needs and expectations prior to the event.
 
@@ -66,8 +70,6 @@ The invitation for ABCD Scanning Tool for CCI Internationalisation was first sen
 
 >“In the workshop I was given further tools that I can now use in the international aspects of my work.”
 
-<img src="/assets/images/tool_5/tool5_3.jpg" alt="" />
-<img src="/assets/images/tool_5/tool5_4.png" alt="" />
 <img src="/assets/images/tool_5/tool5_5.jpg" alt="" />
 
 ## Lessons Learnt
