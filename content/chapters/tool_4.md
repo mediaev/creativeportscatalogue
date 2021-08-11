@@ -1,25 +1,25 @@
 ---
-title: "Tool 4: International Meet 'n Match"
+title: "Tool 4: International Meet 'n' Match"
 weight: 5
 ---
+
+## Idea and Organisation
+
+The [International Meet 'n’ Match](https://filmbyaarhus.dk/ready-steady-match-meet-n-match-event/) event gave small and medium-sized enterprises (SMEs) and game developers inspiration for new ideas, methods and technologies and provided an opportunity for matchmaking and professional exchange.
+
+<img src="/assets/images/tool_4/tool4_2.png" alt="" />
+
+The tool is scalable and adaptable for other sectors within CCI, but at this International Meet ‘n’ Match, the focus was solely on the gaming industry.
+
+(Filmby Aarhus)[https://filmbyaarhus.dk] (Denmark) is the Aarhus municipality centre for film, media production and digital experiences. Filmby Aarhus houses 80+ media companies producing films, VR, games and much more, plus two film studios and two study programmes (VIA Film & Transmedia and Kaos Pilot).
+
+Besides Creative Ports, Filmby Aarhus has held other international development projects, such as the Interreg BSR projects First Motion and Cross Motion and the NSR projects North Sea Screen Partners and Create Converge, which ran until July 2020. Filmby Aarhus also runs Ideas Lab, an incubator where startups working with digital experiences can work and grow through structured sparring.
 
 ## International Meet'n’Match in Figures
 
 * 7 companies
 * 2 hours
-
-The majority of participants stated that the event was relevant for their work.
-
-## Idea and Organisation
-
-The International Meet 'n’ Match event gave small and medium-sized enterprises (SMEs) and game developers inspiration for new ideas, methods and technologies and provided an opportunity for matchmaking and professional exchange.
-
-The tool is scalable and adaptable for other sectors within CCI, but at this International Meet ‘n’ Match, the focus was solely on the gaming industry.
-
-Filmby Aarhus (Denmark) is the Aarhus municipality centre for film, media production and digital experiences. Filmby Aarhus houses 80+ media companies producing films, VR, games and much more, plus two film studios and two study programmes (VIA Film & Transmedia and Kaos Pilot).
-
-Besides Creative Ports, Filmby Aarhus has held other international development projects, such as the Interreg BSR projects First Motion and Cross Motion and the NSR projects North Sea Screen Partners and Create Converge, which ran until July 2020. Filmby Aarhus also runs Ideas Lab, an incubator where startups working with digital experiences can work and grow through structured sparring.
-
+* The majority of participants stated that the event was relevant for their work.
  
 ## Aim and Target Group
 
@@ -60,8 +60,6 @@ The organisers recruited companies in an open call for participation and develop
 > “I made a few new connections and got some food for thought. I also got the chance to share my experience and knowledge with other participants.”
 
 > “The online format for networking worked very well.”
-
-<img src="/assets/images/tool_4/tool4_2.png" alt="" />
 
 ## Lessons Learnt
 The event was held online due to Covid-19 restrictions, but ideally it would have happened physically. The online platform can be limiting when creating social connections and matchmaking, as participants can’t interact face-to-face. Conversations didn’t flow as naturally and the moderator’s role became more central to kick start topics.
