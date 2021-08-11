@@ -1,5 +1,5 @@
 ---
-title: "Tool 3: The Mesh Festival"
+title: "Tool 3: The MESH Festival"
 weight: 4
 ---
 
