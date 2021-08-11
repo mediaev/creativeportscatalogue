@@ -96,4 +96,4 @@ After years of organising meetings, gatherings, conferences and festivals, Media
 * **Conversation based knowledge sharing (peer learning)** — Round table conversations led by a moderator worked particularly well online as the online format functions as a leveler and helps focus the conversation.
 * **All artist studio visits were pre-recorded and these showcases were well suited to the on-demand format.** — That storytelling and intimacy trump a powerpoint, was something participants experienced when one of the speakers accidentally had to give his talk with a smartphone. This unexpected, ad hoc solution led to a more personal talk that took us on a live tour through the speaker’s kitchen.
 
-### Leaning Module
+### Learning Module
