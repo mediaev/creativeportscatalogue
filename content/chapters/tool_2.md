@@ -15,7 +15,7 @@ Pitching for a Better Baltic Sea was organised by the Danish Cultural Institute,
 
 The institute is committed to sharing knowledge and sympathy for the values of Danish society. In cooperation with partners, they develop international cultural and social events, projects and contacts to provide mutual value and inspiration.
 
-It is the mission of the Danish Cultural Institute to contribute to strengthening Denmark’s handling of the challenges of globalisation. They do this by focusing on arts, culture and society within a prioritised number of themes: children and youth, education, science, welfare and sustainability. They also focus on developing new ways of cooperation, which stimulate innovation and co-creation. Their activities always aim to create opportunities for intercultural relations, understanding, sustainable growth and development.
+It is the mission of the [Danish Cultural Institute](https://www.danishculture.com) to contribute to strengthening Denmark’s handling of the challenges of globalisation. They do this by focusing on arts, culture and society within a prioritised number of themes: children and youth, education, science, welfare and sustainability. They also focus on developing new ways of cooperation, which stimulate innovation and co-creation. Their activities always aim to create opportunities for intercultural relations, understanding, sustainable growth and development.
 
 ## Pitching for a Better Baltic Sea in Figures
 
