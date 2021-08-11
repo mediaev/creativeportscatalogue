@@ -1,18 +1,19 @@
 ---
-title: "Tool 7: Melt Innovation Forum & Melt+"
+title: "Tool 7: Melt Innovation Forum"
 weight: 8
 ---
-
-## MELT Innovation Forum in Figures
-
-* 1860 participants
 
 ## Idea and Organisation
 
 [MELT Innovation Forum](https://www.melt.ee) is an annual conference that introduces new business and innovation opportunities to all sectors of CCI. In 2021, the forum took place online under the themes - the future economy, new business models, sustainability and future technologies. In the context of Creative Ports, the conference featured an international panel on the circular economy, which focussed on the textile industry and gathered speakers from Estonia and Germany.
 
-The Tallinn Business Incubator initiated the MELT Innovation Forum in 2016. This year it was organised in cooperation with three organisations - Tallinn Business Centre, Tallinn Creative Incubator and the Tallinn Science Park Tehnopol, who joined forces to bring a versatile program to the virtual stage.
+<img src="/assets/images/tool_7/tool7_1.png" alt="" />
+
+The [Tallinn Business Incubator](https://inkubaator.tallinn.ee/en/program/) initiated the MELT Innovation Forum in 2016. This year it was organised in cooperation with three organisations - Tallinn Business Centre, Tallinn Creative Incubator and the Tallinn Science Park Tehnopol, who joined forces to bring a versatile program to the virtual stage.
  
+## MELT Innovation Forum in Figures
+* 1860 participants
+ 
 ## Aim and Target Group
 
 The general aim of MELT is to bring together different target groups, including CCI intermediaries, enabling them to network, share ideas and build new relationships. The aim of the MELT Innovation Forum panel, “Pains and Gains of Circular Economy”, was to offer international circular economy idea exchange between creative entrepreneurs within the textile industry and introduce new business models.
@@ -42,8 +43,6 @@ The “Gains and Pains of Circular Economy” panellists included:
 * _15.00-15.45_ - Tallinn Science Park Tehnopol presents: Cooperation Between the Corporation and the Public Sector - an Effective Growth Strategy for a Start-up Company / Moderated by Martin Goroško (in Estonian)
 
 As most CCI intermediaries and creative companies' understanding of sustainable design is often limited to material choice, it is vital to expand the target groups' knowledge about different circular business practices. To achieve this, Tallinn Creative Incubator produced an educational video series: “How to Design Products Following the Principles of the Circular Economy?” The video series aimed to introduce different circular design principles and share success stories of design companies that are practising them. The first video was published at the MELT conference before the panel discussion.
-
-<img src="/assets/images/tool_7/tool7_1.png" alt="" />
 
 [Videos from the event](https://inkubaator.tallinn.ee/ringmajandus/).
 
