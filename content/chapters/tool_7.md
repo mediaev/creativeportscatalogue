@@ -9,7 +9,7 @@ weight: 8
 
 <img src="/assets/images/tool_7/tool7_1.png" alt="" />
 
-The [Tallinn Business Incubator](https://inkubaator.tallinn.ee/en/program/) initiated the MELT Innovation Forum in 2016. This year it was organised in cooperation with three organisations - Tallinn Business Centre, Tallinn Creative Incubator and the Tallinn Science Park Tehnopol, who joined forces to bring a versatile program to the virtual stage.
+The Tallinn Business Incubator initiated the MELT Innovation Forum in 2016. This year it was organised in cooperation with three organisations - Tallinn Business Centre, Tallinn Creative Incubator and the Tallinn Science Park Tehnopol, who joined forces to bring a versatile program to the virtual stage.
  
 ## MELT Innovation Forum in Figures
 * 1860 participants
