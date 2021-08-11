@@ -5,7 +5,7 @@ weight: 3
 
 ## The Idea and Organisation
 
-The idea of Pitching for a Better Baltic Sea was to develop transnational cross-sectoral collaborations in the Baltic Sea Region within the creative industries. This was achieved by designing an integrated experience (pitching contest, training event, B2B program) that built on existing CCI-support[^1] frameworks (involving CCI support organisations and cultural institutes).
+The idea of Pitching for a Better Baltic Sea was to develop transnational cross-sectoral collaborations in the Baltic Sea Region within the creative industries. This was achieved by designing an integrated experience (pitching contest, training event, B2B program) that built on existing CCI-support frameworks (involving CCI support organisations and cultural institutes).
 
 There were two Pitching for a Better Baltic Sea events; one was a completely “analogue” event in 2019 and one digital event in 2020.
 
@@ -101,5 +101,3 @@ For digital events, it is important not to improvise technical factors on the da
 Participants of Pitching at the physical event Better Baltic Sea 2019 gained a greater understanding of existing possibilities for transnational cooperation and financing, e.g. the Accelerace Acceleration Program, by meeting and visiting different CCI incubators and support organisations. This, however, was very difficult to include to the same degree in the 2020 digital programme as physical visits to incubators and support organisations were not possible. The networking dimension of events like this is especially difficult to maintain in a digital environment.
 
 As a final note, it’s relevant to point out that it was a great achievement of the organisers to create events that played into all the defined goals for Creative Ports tools as well as working actively with a sustainability focus and the UN Sustainable Development Goals.
-
-[^1]: Since there are various definitions of Cultural and Creative Industries, the project followed an inclusive and pragmatic approach and covered multiple CCI sub-sectors such as film, design, gaming and music industries.
