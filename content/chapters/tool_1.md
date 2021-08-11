@@ -5,7 +5,7 @@ weight: 2
 
 ## Idea and organisation
 
-Baltic Home was a virtual [pop-up exhibition](http://baltichome.wzp.pl/) of furniture and other interior objects, launched in October 2020 within the fifth International Creative Congress DESIGN PLUS in Szczecin, Poland. Baltic Home presented designers from Sweden, Denmark, Finland, Lithuania, Estonia and Germany.
+Baltic Home was a virtual [pop-up exhibition](http://baltichome.wzp.pl/) of furniture and other interior objects, launched in October 2020 within the fifth International Creative Congress [DESIGN PLUS](http://designplus.net.pl) in Szczecin, Poland. Baltic Home presented designers from Sweden, Denmark, Finland, Lithuania, Estonia and Germany.
 
 <img src="/assets/images/tool_1/tool1_1.png" alt="" />
 
