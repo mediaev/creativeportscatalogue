@@ -11,7 +11,7 @@ weight: 4
 
 The digital festival was organised by [Media Evolution](https://www.mediaevolution.se), an organisation driven by the mission to foster growth and innovation in the digital and creative industries of southern Sweden. The core of the organisation is the member community and a platform for sharing ideas, developing competencies and driving innovation for the members. Media Evolution also pursues pioneering projects, locally and globally to create new markets for the members.
 
-## Mesh Festival in Figures
+## MESH Festival in Figures
 
 * 400 participants
 * 4 days
