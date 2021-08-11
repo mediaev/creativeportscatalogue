@@ -7,6 +7,8 @@ weight: 2
 
 Baltic Home was a virtual [pop-up exhibition](http://baltichome.wzp.pl/) of furniture and other interior objects, launched in October 2020 within the fifth International Creative Congress DESIGN PLUS in Szczecin, Poland. Baltic Home presented designers from Sweden, Denmark, Finland, Lithuania, Estonia and Germany.
 
+<img src="/assets/images/tool_1/tool1_1.png" alt="" />
+
 The Baltic Sea countries are a fertile hub of innovation and resources, making them some of the most exciting for design in the European Union. Scandinavian design enjoys an international reputation, but the other Baltic countries, though not as widely recognised, have plenty to offer in terms of design quality and ingenuity. And here lies the opportunity. A chance to boost collaboration and awareness among intermediaries in the creative sector and in turn, support the region’s design community.
 
 The Westpomeranian Region organised the Baltic Home exhibition. West Pomerania is the fifth largest region of Poland and is a centre for technological development, much of which converges in its historic capital city, Szczecin. The area promotes innovation by fostering active collaboration between business and science, combining technology with know-how.
@@ -18,13 +20,11 @@ The Westpomeranian Region organised the Baltic Home exhibition. West Pomerania i
 * 74 exhibits
 * 20 partners
 
-<img src="/assets/images/tool_1/tool1_1.png" alt="" />
-
 ## Aim and target group
 
 The overarching goal of Baltic Home was to strengthen networks and collaborations between international cultural and creative industry intermediary organisations and local creators from the Baltic Sea countries. In the process, the intermediaries discovered the potential and diversity of the Baltic Sea cultural and creative sector.
 
-“We live in a constant rush. We don’t pay attention to what surrounds us. Baltic Home is about focusing on the present and enjoying the moment. A return to the roots, a return to nature also comes with help.” - Baltic Home curators.
+> “We live in a constant rush. We don’t pay attention to what surrounds us. Baltic Home is about focusing on the present and enjoying the moment. A return to the roots, a return to nature also comes with help.” - Baltic Home curators.
 
 The exhibiting artists in the Baltic Home exhibition gained visibility and recognition from both support organisations and other international creatives. This resulted in the formation of new creative contexts and opportunities for collaboration. Since the exhibition was online, there was also an interface to showcase the exhibits to a broader international public.
 
@@ -47,9 +47,9 @@ The initial communication was aimed at attracting designers and included a value
 * Reach new audiences
 * Benefit from cost-effective marketing
 
-Visual identity and marketing materials were developed, as well as a website to promote and explore the project. The organisers utilised their existing networks and social media channels to promote the exhibition. An extensive PR campaign generated 14 articles in relevant design media during the first days of the show.
-
 <img src="/assets/images/tool_1/tool1_2.jpg" alt="" />
+
+Visual identity and marketing materials were developed, as well as a website to promote and explore the project. The organisers utilised their existing networks and social media channels to promote the exhibition. An extensive PR campaign generated 14 articles in relevant design media during the first days of the show.
 
 ## Testimonials From Participants
 
