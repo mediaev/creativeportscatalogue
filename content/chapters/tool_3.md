@@ -3,17 +3,21 @@ title: "Tool 3: The Mesh Festival"
 weight: 4
 ---
 
-## Mesh Festical in Figures
+### Idea and Organisation
+
+[MESH Festival](https://www.meshfestival.com) was a virtual pick-and-choose online festival that mixed inspiring talks, interactive workshops and roundtable discussions with linear TV, film streaming, artist showcases and other activities. It spanned design, sustainability and technology. The entire festival was free to attend.  
+
+<img src="/assets/images/tool_3/tool3_3.png" alt="" />
+
+The digital festival was organised by [Media Evolution](https://www.mediaevolution.se), an organisation driven by the mission to foster growth and innovation in the digital and creative industries of southern Sweden. The core of the organisation is the member community and a platform for sharing ideas, developing competencies and driving innovation for the members. Media Evolution also pursues pioneering projects, locally and globally to create new markets for the members.
+
+## Mesh Festival in Figures
 
 * 400 participants
 * 4 days
 * 16 happenings
 * 7 showcases
 * 80% said that the event was relevant for their work
-
-### Idea and Organisation
-
-MESH Festival was a virtual pick-and-choose online festival that mixed inspiring talks, interactive workshops and roundtable discussions with linear TV, film streaming, artist showcases and other activities. It spanned design, sustainability and technology. The entire festival was free to attend.  The digital festival was organised by Media Evolution, an organisation driven by the mission to foster growth and innovation in the digital and creative industries of southern Sweden. The core of the organisation is the member community and a platform for sharing ideas, developing competencies and driving innovation for the members. Media Evolution also pursues pioneering projects, locally and globally to create new markets for the members.
 
 ### Aim and Target Group
 
@@ -30,7 +34,6 @@ The aim was to:
 Media Evolution ran an international conference for ten years in Malmö, Sweden. “The Conference” was a two-day conference where curious minds from all over the world met to delve into the promises and pitfalls of digital development. When Covid struck, the MESH Festival was created in place of The Conference to give Media Evolution’s members, CCIs in the Baltic Sea region and others a chance to meet and greet in a new way.  The MESH program was a medley of formats, all less than a day long. They ranged from talks and masterclasses and roundtable discussions to workshops and showcases. The goal was to create a sense of surprise and intrigue and to offer participants a sensory experience.  By exploring different formats, the organisers could explore what worked and what didn’t.
 
 <img src="/assets/images/tool_3/tool3_0.jpg" alt="" />
-<img src="/assets/images/tool_3/tool3_1.jpg" alt="" />
 
 #### Tuesday, November 10
 
@@ -74,7 +77,6 @@ An easy-to-use graphic profile was created that linked to the Creative Ports gra
 
 > “As I&#39;ve been to The Conference, I know the work you put into the details around arranging your events. Here, you clearly put a lot of work into the speakers and the content, but it all felt a bit &quot;cheap&quot; when arranging it on Zoom. This is really the only improvement feedback I can give, as I really enjoyed the webinars that I attended. I just wished I had more time to attend more of them.“
 
-<img src="/assets/images/tool_3/tool3_3.png" alt="" />
 <img src="/assets/images/tool_3/tool3_4.png" alt="" />
 
 ### Lessons Learnt
