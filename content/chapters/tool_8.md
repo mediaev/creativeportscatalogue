@@ -3,6 +3,14 @@ title: "Tool 8: Export Speed Mentoring"
 weight: 9
 ---
 
+## Idea and Organisation
+
+Export Speed Mentoring was a one-day event that brought together fashion designers and mentors from Estonia, Sweden, Poland and Germany to support Baltic Sea Region designers to enter new markets and learn about circular principles.
+
+The event was organised by [Tallinn Creative Incubator](https://inkubaator.tallinn.ee/en/program/), which has been operating since 2006 and has helped develop over 350 companies. Currently, the incubator serves as a growth platform for 40 companies from both creative and circular economy industries.
+
+The organising partners included Hamburg Kreative Gesellschaft, Westpomarania Region, Media Evolution and Media Dijain.
+
 ## Export Speed Mentoring in Figures
 
 * 22 fashion brands
@@ -11,14 +19,6 @@ weight: 9
 * 4 countries
 * 5 talks
 * 84 mentoring sessions
-
-## Idea and Organisation
-
-Export Speed Mentoring was a one-day event that brought together fashion designers and mentors from Estonia, Sweden, Poland and Germany to support Baltic Sea Region designers to enter new markets and learn about circular principles.
-
-The event was organised by Tallinn Creative Incubator, which has been operating since 2006 and has helped develop over 350 companies. Currently, the incubator serves as a growth platform for 40 companies from both creative and circular economy industries.
-
-The organising partners included Hamburg Kreative Gesellschaft, Westpomarania Region, Media Evolution and Media Dijain.
 
 ## Aim and Target Group
 
