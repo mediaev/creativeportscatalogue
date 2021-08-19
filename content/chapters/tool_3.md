@@ -5,7 +5,7 @@ weight: 4
 
 ### Idea and Organisation
 
-[MESH Festival](https://www.meshfestival.com) was a virtual pick-and-choose online festival that mixed inspiring talks, interactive workshops and roundtable discussions with linear TV, film streaming, artist showcases and other activities. It spanned design, sustainability and technology. The entire festival was free to attend.  
+[MESH Festival](https://www.meshfestival.com) was a virtual pick-and-choose online festival that mixed inspiring talks, interactive workshops and roundtable discussions with linear TV, film streaming, artist showcases and other activities. It spanned design, sustainability and technology. The entire festival was free to attend.
 
 <img src="/assets/images/tool_3/tool3_3.png" alt="" />
 
