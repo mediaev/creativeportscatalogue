@@ -38,6 +38,8 @@ The exhibition’s central theme was the sea, a salient feature that both border
 
 Given the exhibition took place in the context of a global pandemic, an opportunity arose to transport the public out of their everyday lives, into another world. The exhibition did this through careful curation and layout in the form of a home, with different rooms to enter and explore. Each object gives pause for thought and the chance to learn about the specific design approach and heritage of each country represented. The objects presented became ambassadors of each country.
 
+<img src="/assets/images/tool_1/tool1_1.png" alt="" />
+
 ## Communication
 
 The initial communication was aimed at attracting designers and included a value proposition around participant benefits, including:

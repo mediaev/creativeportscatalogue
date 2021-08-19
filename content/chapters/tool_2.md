@@ -37,6 +37,8 @@ Moreover, Pitching for a Better Baltic Sea aimed to ensure that participating co
 
 Participants of Pitching for a Better Baltic Sea expanded their network and gained a greater understanding of existing transnational cooperation and financing possibilities. They also acquired new contacts by networking with each other, meeting local companies, incubators, CCI support organisations, experts and other CCI actors.
 
+<img src="/assets/images/tool_2/tool2_1.jpg" alt="photo of people seated in an audience." />
+
 ## The Program
 
 The Pitching for a Better Baltic Sea internationalisation tool was split into two concrete sets of pilot activities. The first taking place on the 28th - 29th of October 2019, the second a year later. The 2019 activities took place as a physical event and included two Baltic sea region countries, Denmark and Latvia. The organisers had to turn the 2020 activities into a virtual event with partners and participants from five countries: Denmark, Sweden, Latvia, Estonia and Germany.
