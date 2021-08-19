@@ -18,6 +18,7 @@ article, aside, figure, footer, header, aside, main, nav { display: block; }
   --color-red: #af0045;
 
   --title-font: Montserrat-Black, Helvetica, sans-serif;
+  --title-bold-font: Montserrat-Bold, Helvetica, sans-serif;
   --body-font: Montserrat-Regular, Helvetica, sans-serif;
 }
 
@@ -30,8 +31,14 @@ body {
  ****************************/
 
 @font-face {
-  font-family: "Montserrat-regular";
+  font-family: "Montserrat-Regular";
   src: url("/assets/fonts/Montserrat-Regular.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Montserrat-Bold";
+  font-weight: 900;
+  src: url("/assets/fonts/Montserrat-.ttf") format("truetype");
 }
 
 @font-face {
@@ -193,7 +200,8 @@ h1 span {
 
 .home h1 {
   font-size: calc(var(--step-5) * 1.5);
-  font-weight: 400;
+  font-weight: 600;
+  font-family: var(--title-bold-font);
   -webkit-hyphens: auto;
   -ms-hypens: auto;
   hyphens: auto;
