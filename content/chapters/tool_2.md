@@ -63,7 +63,7 @@ Visits to local companies and incubators: The nonlocal CCI participants visited,
 
 Optional participation in “this.series”, part of “this.festival” for digitalisation and creative industries in the region of Midtjylland: CCI participants had the opportunity to meet, network with, listen to, learn and gain knowledge and inspiration from other creatives and experts.
 
-#### Pitching for a Better Baltic Sea 2020 (Digital Adaption)
+### Pitching for a Better Baltic Sea 2020 (Digital Adaption)
 
 **28 October:**
 Goals of the pitching competition: To empower CCI participants; for them to learn from each other and connect to each other, to other CCI actors and to international markets; for them to gain new inspiration and knowledge of concrete examples of CCI projects in the BSR that are both commercially viable and environmentally sustainable; for them to strengthen their innovative capabilities and pitching skills; for them to showcase their products and services to the audience.

@@ -25,7 +25,7 @@ To achieve increased capacity for internationalisation, the 14 Creative Ports pr
 
 Since there are various definitions of Cultural and Creative Industries, the project followed an inclusive and pragmatic approach and covered multiple CCI sub-sectors such as film, design, gaming and music industries.
 
-### Tool development process
+## Tool development process
 
 First, the project partners filled in a survey and exchanged about possible internationalisation tools directed at CCI companies to get an overview of potential formats, events and so on. This was based on the partner organisations’ experiences of their own or other potential internationalisation activities. The results were then compiled in a list of 91 internationalisation tools, which is a source of inspiration for working with CCI companies and testing new formats. 
 
