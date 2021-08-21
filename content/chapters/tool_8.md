@@ -1,6 +1,7 @@
 ---
 title: "Tool 8: Export Speed Mentoring"
 weight: 9
+header: "/assets/images/intro_1/header.jpg"
 ---
 
 ## Idea and Organisation
@@ -40,24 +41,24 @@ The organisers created a shared excel file where participants could optionally a
 
 ### Event schedule
 
-9.30 - 10.00 OPENING
+**9.30 - 10.00** Opening
 * Introduction from Tallinn Creative (Nele Plutus and Margaret Aidla)
 * “Young Fashion Brands Entering Foreign Markets” (export consultant, Irbe Šmite)
 * “Why Should Fashion Brands Adopt Circular Principles?” (Societal Change Management Expert  Kadi Kenk)
 
-10:00 - 10.30 MENTORING
-10.30 - 10.35 BREAK
-10.35 - 11.05 MENTORING
-11.05 - 12.05 PROGRAM (success stories)
+**10.00 - 10.30** Mentoring
+**10.30 - 10.35** Break
+**10.35 - 11.05** Mentoring
+**11.05 - 12.05** Program (success stories)
 
 * Kriss Soonik from Kriss Soonik Lingerie (Estonia)
 * Elena Gasulla Tortajada from Liebre Style (Poland)
 * Juliana Holtzheimer and Anna Bronowski from Jan N June (Germany).
 
-12.05 - 12.35 MENTORING
-12.35 - 12.40 BREAK
-12.40 - 13.10 MENTORING
-13.10 - 13.30 WRAPPING UP
+**12.05 - 12.35** Mentoring
+**12.35 - 12.40** Break
+**12.40 - 13.10** Mentoring
+**13.10 - 13.30** Wrapping up
 
 ## Communication
 Five partner organisations were involved in the organisation of the event. The partners had three initial online organisational meetings, as well as communication via phone and email.

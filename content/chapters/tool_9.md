@@ -1,6 +1,7 @@
 ---
 title: "Tool 9: Sustainable Design Lab"
 weight: 10
+header: "/assets/images/intro_1/header.jpg"
 ---
 
 ## Idea and Organisation
@@ -36,81 +37,81 @@ Event schedule
 
 ##### Friday / 19 March
 
-* _15.00_ Welcome & Introduction by the Creative Ports partners
-* _15.15_ Quick introduction round of the participating designers
-* _15.20_ Interests and competencies activity
-* _15.35_ Keynote on SDG 11 ‘Sustainable cities and communities’
-* _15.55_ Q&A
-* _16.10_ Break
-* _16.20_ Getting to know the three cities
+**15.00** Welcome & Introduction by the Creative Ports partners
+**15.15** Quick introduction round of the participating designers
+**15.20** Interests and competencies activity
+**15.35** Keynote on SDG 11 ‘Sustainable cities and communities’
+**15.55** Q&A
+**16.10** Break
+**16.20** Getting to know the three cities
   * Presentation: Video portraits of the three cities (5 x 3 minutes). Focus on the challenges and best practices around SDG 11
   * Short discussion and Q&A after each portrait
   * Collaboration on Miro.com to gather thoughts, input and first ideas
-* _17.20_ Break
-* _17.30_ Beers & informal activities
+**17.20** Break
+**17.30** Beers & informal activities
 
 ##### Saturday / 20 March
 
-* _09:00_ Check-in & warm up
-* _09:15_ Agenda
-* _09:20_ Input: Design Market in Hamburg
-* _09:40_ Q&A
-* _09:50_ Break
-* _10:00_ Input: What is circular thinking? + Circular Design Strategies + Agenda
-* _10:15_ Q&A
-* _10:25_ Circular wallet, including debrief
-* _11:25_ Break
-* _11:35_ Warm Data lab
-* _12:15_ Lunch
-* _12:45_ Stakeholder Maps
-* _13:00_ Systems Mapping, incl. Debrief
-* _14:00_ Break
-* _14:10_ Project Planning Teams
-* _14:50_ Check-out/Next steps
-* _15:00_ End
+**09.00** Check-in & warm up
+**09.15** Agenda
+**09.20** Input: Design Market in Hamburg
+**09.40** Q&A
+**09.50** Break
+**10.00** Input: What is circular thinking? + Circular Design Strategies + Agenda
+**10.15** Q&A
+**10.25** Circular wallet, including debrief
+**11.25** Break
+**11.35** Warm Data lab
+**12.15** Lunch
+**12.45** Stakeholder Maps
+**13.00** Systems Mapping, incl. Debrief
+**14.00** Break
+**14.10** Project Planning Teams
+**14.50** Check-out/Next steps
+**15.00** End
 
 #### BLOCK 2
 
 ##### Friday / 7 May
 
-* _15.00_ Welcome & Introduction by the Creative Ports partners
-* _15.10_ Warm-up exercise
-* _15.20_ Input: The Design Market in the Mikkeli Area
-* _15.30_ Q&A
-* _15.40_ Recap: What did we do last time, and what has happened in between?
-* _15.50_ Team building
-* _16.15_ Break
-* _16.30_ Group work: Further development of the ideas in the working teams and prototyping planning
-* _18.00_ Concert (digital via SofaConcerts)
+**15.00** Welcome & Introduction by the Creative Ports partners
+**15.10** Warm-up exercise
+**15.20** Input: The Design Market in the Mikkeli Area
+**15.30** Q&A
+**15.40** Recap: What did we do last time, and what has happened in between?
+**15.50** Team building
+**16.15** Break
+**16.30** Group work: Further development of the ideas in the working teams and prototyping planning
+**18.00** Concert (digital via SofaConcerts)
 
 ##### Saturday / 8 May
 
-* _09.00_ Welcome & Introduction by the Creative Ports partners
-* _09.10_ Presentation of ideas and plans for the day by each group and feedback
-* _10.00_ Group work: Prototyping in the working teams
-* _15.00_ Progress-check and feedback
+**09.00** Welcome & Introduction by the Creative Ports partners
+**09.10** Presentation of ideas and plans for the day by each group and feedback
+**10.00** Group work: Prototyping in the working teams
+**15.00** Progress-check and feedback
 
 #### BLOCK 3
 
 ##### Friday / 10 June
 
-* _17.00_ Sustainable Design Night
-* _17.00-17.10_ Welcome (DCI, Hamburg)
-* _17.10-18.00_ Presentations of the prototypes, 5 x 10 minutes: 7 min presentation, 3 min questions
-* _17.55-18.05_ Open floor for questions
-* _18.05-18.30_ Keynote by Emīls Rode, specialist in strategy, design, and innovation Networking on Wonder
+**17.00** Sustainable Design Night
+**17.00-17.10** Welcome (DCI, Hamburg)
+**17.10-18.00** Presentations of the prototypes, 5 x 10 minutes: 7 min presentation, 3 min questions
+**17.55-18.05** Open floor for questions
+**18.05-18.30** Keynote by Emīls Rode, specialist in strategy, design, and innovation Networking on Wonder
 
 ##### Saturday / 11 June
 
-* _12.00_ Welcome & Introduction by the Creative Ports partners
-* _12.10_ Warm-up exercise (Riga)
-* _12.25_ Recap: What did we do last time, and what has happened in between?
-* _12.40_ Input: The Design Market in Riga Inese Baranovska, Museum of Decorative Arts and Design
-* _13.10_ Pitching workshop by Kaspars Eglītis
-* _14.10_ Break
-* _15.00_ Final feedback on presentations from the pitching expert (5x 14 min)
-* _16.10_ Long break
-* _17.00_ Sustainable Design Night
+**12.00** Welcome & Introduction by the Creative Ports partners
+**12.10** Warm-up exercise (Riga)
+**12.25** Recap: What did we do last time, and what has happened in between?
+**12.40** Input: The Design Market in Riga Inese Baranovska, Museum of Decorative Arts and Design
+**13.10** Pitching workshop by Kaspars Eglītis
+**14.10** Break
+**15.00** Final feedback on presentations from the pitching expert (5x 14 min)
+**16.10** Long break
+**17.00** Sustainable Design Night
 
 ## Communication
 

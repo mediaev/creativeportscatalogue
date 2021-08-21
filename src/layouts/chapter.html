@@ -3,9 +3,14 @@
 {% extends "./base.html" %}
 
 {% block content %}
-  <h1><span>{{ title }}</span></h1>
   <article>
-    {{ content | safe }}
+    <h1><span>{{ title }}</span></h1>
+    {% if header %}
+      <img class="header-image" src="{{ header }}" alt="" />
+    {% endif %}
+    <div class="article-wrapper">
+      {{ content | safe }}
+    </div>
   </article>
 
   <nav class="chapter-navigation">

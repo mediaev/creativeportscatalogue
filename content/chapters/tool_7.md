@@ -1,6 +1,7 @@
 ---
 title: "Tool 7: Melt Innovation Forum"
 weight: 8
+header: "/assets/images/intro_1/header.jpg"
 ---
 
 ## Idea and Organisation
@@ -33,14 +34,14 @@ The “Gains and Pains of Circular Economy” panellists included:
 
 ### Event schedule
 
-* _09:30 - 10:15_ - Keynote speaker: Gunter Pauli, entrepreneur, economist and blue economy expert (in English) - Innovations That will Change the Economic Model
-* _10.20-11.00_ - Panel discussion: What is the Colour of the Estonian Economy? / Moderated by Johannes Tralla (in Estonian)
-* _11.05-11.50_ - Tallinn Creative Incubator presents: The Pains and Gains of Circular Economy / Moderated by Kadi Kenk (in English)
-* _11.55-12.35_ - Tallinn Creative Incubator presents: New Consumer Behaviour - What Happens After Corona? / Moderated by Marii Karell (in Estonian)
-* _12.40-13.25_ - Tallinn Business Center presents: Is it Necessary to be Big to Change the World? / Moderated by Johannes Tralla (in Estonian)
-* _13.25-14.10_ - Tallinn Business Center presents: Old Businesses in a New Form / Moderated by Johannes Tralla (in Estonian)
-* _14.15-15.00_ - Tallinn Science Park Tehnopol presents: Smart City Solutions Competition winners pitches and panel discussion, How to Bring Smart Solutions to Cities? / Moderated by Martin Goroško and Toomas Türk (in Estonian)
-* _15.00-15.45_ - Tallinn Science Park Tehnopol presents: Cooperation Between the Corporation and the Public Sector - an Effective Growth Strategy for a Start-up Company / Moderated by Martin Goroško (in Estonian)
+**09.30 - 10.15** Keynote speaker: Gunter Pauli, entrepreneur, economist and blue economy expert (in English) - _Innovations That will Change the Economic Model_
+**10.20-11.00** _Panel discussion: What is the Colour of the Estonian Economy?_ / Moderated by Johannes Tralla (in Estonian)
+**11.05-11.50** _Tallinn Creative Incubator presents: The Pains and Gains of Circular Economy_ / Moderated by Kadi Kenk (in English)
+**11.55-12.35** _Tallinn Creative Incubator presents: New Consumer Behaviour - What Happens After Corona?_ / Moderated by Marii Karell (in Estonian)
+**12.40-13.25** _Tallinn Business Center presents: Is it Necessary to be Big to Change the World?_ / Moderated by Johannes Tralla (in Estonian)
+**13.25-14.10** _Tallinn Business Center presents: Old Businesses in a New Form_ / Moderated by Johannes Tralla (in Estonian)
+**14.15-15.00** _Tallinn Science Park Tehnopol presents: Smart City Solutions Competition winners pitches and panel discussion, How to Bring Smart Solutions to Cities?_ / Moderated by Martin Goroško and Toomas Türk (in Estonian)
+**15.00-15.45** _Tallinn Science Park Tehnopol presents: Cooperation Between the Corporation and the Public Sector - an Effective Growth Strategy for a Start-up Company_ / Moderated by Martin Goroško (in Estonian)
 
 As most CCI intermediaries and creative companies' understanding of sustainable design is often limited to material choice, it is vital to expand the target groups' knowledge about different circular business practices. To achieve this, Tallinn Creative Incubator produced an educational video series: “How to Design Products Following the Principles of the Circular Economy?” The video series aimed to introduce different circular design principles and share success stories of design companies that are practising them. The first video was published at the MELT conference before the panel discussion.
 

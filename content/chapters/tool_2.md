@@ -1,6 +1,7 @@
 ---
 title: "Tool 2: Pitching for a Better Baltic Sea"
 weight: 3
+header: "/assets/images/intro_1/header.jpg"
 ---
 
 ## The Idea and Organisation

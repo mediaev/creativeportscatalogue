@@ -1,6 +1,7 @@
 ---
 title: "Tool 1: The Baltic Home"
 weight: 2
+header: "/assets/images/intro_1/header.jpg"
 ---
 
 ## Idea and organisation

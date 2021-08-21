@@ -1,6 +1,7 @@
 ---
 title: "Tool 5: ABCD Scanning Tool for CCI Internationalisation"
 weight: 6
+header: "/assets/images/intro_1/header.jpg"
 ---
 
 ## Idea and Organisation
@@ -41,19 +42,19 @@ The program was divided into two parts. The first focused on key needs, the valu
 
 #### Part 1 (1 March / 12 April)
 
-* _13:00_ - Introduction
-* _13:30_ - Key Needs & Value Expected
-* _15:00_ - Challenges & Opportunities
-* _16:10_ - Drivers of Change (i.e. change in social trends)
-* _16:40_ - Summary and Wrap Up Discussion
-* _17:00_ - The end
+**13.00** _Introduction_
+**13.30** _Key Needs & Value Expected_
+**15.00** _Challenges & Opportunities_
+**16.10** _Drivers of Change (i.e. change in social trends)_
+**16.40** _Summary and Wrap Up Discussion_
+**17.00** _The end_
 
 #### Part 2 (3 March / 14 April)
 
-* _13:00_ - Design Principles
-* _13:45_ - Solution-based idea generation
-* _15:45_ - Conclusions & Action Plan
-* _17:00_ - The end
+**13.00** _Design Principles_
+**13.45** _Solution-based idea generation_
+**15.45** _Conclusions & Action Plan_
+**17.00** _The end_
 
 ## Communication
 

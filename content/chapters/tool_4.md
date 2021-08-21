@@ -1,6 +1,7 @@
 ---
 title: "Tool 4: International Meet 'n' Match"
 weight: 5
+header: "/assets/images/intro_1/header.jpg"
 ---
 
 ## Idea and Organisation
@@ -40,13 +41,13 @@ The central part of the event was match sessions in which participating companie
 
 ### Event schedule
 
-* 13:30 Virtual Check-in
-* 13:45 Welcome and introduction of the format
-* 14:00 Match session 1
-* 14:30 Match session 2
-* Break
-* 15:15 Match session 3
-* 15.45 Match session 4
+**13.30** Virtual Check-in
+**13.45** Welcome and introduction of the format
+**14.00** Match session 1
+**14.30** Match session 2
+**Break**
+**15.15** Match session 3
+**15.45** Match session 4
 
 
 ### Communication

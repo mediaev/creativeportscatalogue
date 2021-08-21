@@ -1,6 +1,7 @@
 ---
 title: "Tool 3: The MESH Festival"
 weight: 4
+header: "/assets/images/intro_1/header.jpg"
 ---
 
 ### Idea and Organisation
