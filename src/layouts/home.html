@@ -7,15 +7,20 @@ bodyClass: home
   {{ content | safe }}
 
   <h2>Chapters:</h2>
-  <ol class="toc">
-    {%- for chapter in collections.chapters -%}
-    <li>
-      <a href="{{ chapter.url }}">
-        {{ chapter.data.title }}
-      </a>
-    </li>
-    {%- endfor -%}
-  </ol>
+  <div class="toc-wrapper">
+    <ol class="toc">
+      {%- for chapter in collections.chapters -%}
+      <li>
+        <a data-header="{{ chapter.data.header }}" href="{{ chapter.url }}">
+          {{ chapter.data.title }}
+        </a>
+      </li>
+      {%- endfor -%}
+    </ol>
+    <div class="image-container">
+      <img src="" class="hidden" aria-hidden="true" />
+    </div>
+  </div>
 
   <nav class="chapter-navigation">
     <div></div>

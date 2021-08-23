@@ -296,6 +296,21 @@ figcaption {
   background: var(--color-teal);
 }
 
+.toc-wrapper { position: relative; }
+.image-container {
+  position: absolute;
+  top: calc(var(--space-2xl) * -1);
+  bottom: calc(var(--space-2xl) * -1);
+  width: 100%;
+  z-index: -1;
+  text-align: center;
+}
+
+.image-container img {
+  max-height: 100%;
+  opacity: 0.5;
+}
+
 @media all and (max-width: 720px) {
   .toc li { display: block; margin-bottom: var(--space-s) }
   .toc li::after { content: "" }
