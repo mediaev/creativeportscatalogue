@@ -266,6 +266,8 @@ figcaption {
  * General Layout
  ****************************/
 
+header { position: relative; z-index: 100; }
+
 .toc {
   margin: 0 auto;
   padding: 0;
@@ -308,7 +310,6 @@ figcaption {
 
 .image-container img {
   max-height: 100%;
-  opacity: 0.5;
 }
 
 @media all and (max-width: 720px) {
@@ -520,37 +521,15 @@ a.logo {
   position: absolute;
   top: calc(var(--step-1) + 10px);
   left: var(--step-1);
-  width: 44px;
-  height: 30px;
+  width: 32px;
+  height: 32px;
+  background: url('/css/burger.svg') no-repeat;
+  background-size: contain;
 }
 
-.menu-toggle span,
-.menu-toggle span::before,
-.menu-toggle span::after {
-  display: block;
-  position: absolute;
-  content: " ";
-  width: 44px;
-  height: 4px;
-  border-radius: 2px;
-  background: var(--color-red);
-  top: 0;
-  transition: all .2s ease-out;
-}
-
-.menu-toggle span::before { top: -10px; }
-.menu-toggle span::after { top: 10px; }
-.menu-toggle:hover span::before, .menu-toggle:focus span::before { top: -12px; }
-.menu-toggle:hover span::after, .menu-toggle:focus span::after { top: 12px; }
-
-.menu-toggle.active span { background: none; }
-.menu-toggle.active span::before {
-  transform: rotate(45deg);
-  top: 0;
-}
-.menu-toggle.active span::after {
-  transform: rotate(-45deg);
-  top: 0;
+.menu-toggle.active {
+  background: url('/css/close.svg') no-repeat;
+  background-size: contain;
 }
 
 .chapter-navigation {
