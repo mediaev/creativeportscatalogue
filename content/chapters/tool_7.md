@@ -8,8 +8,6 @@ header: "/assets/images/intro_1/header.jpg"
 
 [MELT Innovation Forum](https://www.melt.ee) is an annual conference that introduces new business and innovation opportunities to all sectors of CCI. In 2021, the forum took place online under the themes - the future economy, new business models, sustainability and future technologies. In the context of Creative Ports, the conference featured an international panel on the circular economy, which focussed on the textile industry and gathered speakers from Estonia and Germany.
 
-<img src="/assets/images/tool_7/tool7_1.png" alt="" />
-
 The Tallinn Business Incubator initiated the MELT Innovation Forum in 2016. This year it was organised in cooperation with three organisations - Tallinn Business Centre, Tallinn Creative Incubator and the Tallinn Science Park Tehnopol, who joined forces to bring a versatile program to the virtual stage.
  
 ## MELT Innovation Forum in Figures
@@ -45,7 +43,8 @@ The “Gains and Pains of Circular Economy” panellists included:
 
 As most CCI intermediaries and creative companies' understanding of sustainable design is often limited to material choice, it is vital to expand the target groups' knowledge about different circular business practices. To achieve this, Tallinn Creative Incubator produced an educational video series: “How to Design Products Following the Principles of the Circular Economy?” The video series aimed to introduce different circular design principles and share success stories of design companies that are practising them. The first video was published at the MELT conference before the panel discussion.
 
-[Videos from the event](https://inkubaator.tallinn.ee/ringmajandus/).
+Along side the program, an educational video series was produced and is [avaialble here](https://inkubaator.tallinn.ee/ringmajandus/).
+<img src="/assets/images/tool_7/tool7_1.png" alt="" />
 
 ## Communication
 
