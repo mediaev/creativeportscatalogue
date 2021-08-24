@@ -2,5 +2,6 @@
   "title": "Creative Ports",
   "url": "http://localhost:8080",
   "logo": "/assets/images/logo.svg",
+  "sponsor": "/assets/images/eu.svg",
   "footerImage": "/assets/images/partners.png"
 }

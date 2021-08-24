@@ -2,7 +2,10 @@
 bodyClass: home
 ---
 {% extends "./base.html" %} {% block content %}
-  <img src="{{ site.logo }}" alt="{{ site.title }}" width="360" height="122" />
+  <div class="site-logo">
+    <img src="{{ site.logo }}" alt="{{ site.title }}" width="180" height="61" />
+    <img src="{{ site.sponsor }}" width="227" height="44" />
+  </div>
   <h1><span>{{ title }}</span></h1>
   {{ content | safe }}
 
