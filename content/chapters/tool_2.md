@@ -12,7 +12,7 @@ The idea of [Pitching for a Better Baltic Sea](https://www.dki.lv/pitching-bette
 
 There were two Pitching for a Better Baltic Sea events; one was a completely “analogue” event in 2019 and one digital event in 2020.
 
-Pitching for a Better Baltic Sea was organised by the Danish Cultural Institute, a self-governed institution that has fostered mutual understanding between people and cultures since 1940.
+Pitching for a Better Baltic Sea was organised by the [Danish Cultural Institute](https://www.danishculture.com), a self-governed institution that has fostered mutual understanding between people and cultures since 1940.
 
 The institute is committed to sharing knowledge and sympathy for the values of Danish society. In cooperation with partners, they develop international cultural and social events, projects and contacts to provide mutual value and inspiration.
 
@@ -51,18 +51,18 @@ The goals of the pitching competition was to empower CCI participants; for them 
 ### Pitching for a Better Baltic Sea 2019
 
 **28 October:**
-Keynote session (by Kasper Petersen, co-founder of LABFRESH): For CCI participants to gain new inspiration and knowledge of methods and technologies and to allow them to learn from a concrete example of a more experienced Danish company that has successfully combined commercial interests and sustainable methods and approaches.
+Keynote session (by Kasper Petersen, co-founder of [LABFRESH](https://labfresh.eu/)): For CCI participants to gain new inspiration and knowledge of methods and technologies and to allow them to learn from a concrete example of a more experienced Danish company that has successfully combined commercial interests and sustainable methods and approaches.
 
 Creative intervention (concert by Latvian band Carnival Youth): The performance aimed to inspire and create a starting point for dialogue and exchange between the many different participants.
 
 Reception/networking: For CCI participants to connect with each other, incubators, support organisations and other CCI actors, creating and strengthening contacts, networks and collaborations.
 
 **29 October:**
-Internationalisation workshop (by Karoline Haulund, Vice Director of Creative Business Network): The workshop aimed to teach participants about CCI internationalisation, building their capacity and providing inspiration and knowledge about relevant methods and technologies.
+Internationalisation workshop (by Karoline Haulund, Vice Director of [Creative Business Network](https://cbnet.com/)): The workshop aimed to teach participants about CCI internationalisation, building their capacity and providing inspiration and knowledge about relevant methods and technologies.
 
 Visits to local companies and incubators: The nonlocal CCI participants visited, networked with and exchanged experiences and knowledge with local Danish incubators as well as companies that had successfully combined commercial interests and sustainability. They gained inspiration and information about methods and technologies. They built their capacity through peer-to-peer learning and gained new information about the Danish market and existing transnational cooperation and financing opportunities.
 
-Optional participation in “this.series”, part of “this.festival” for digitalisation and creative industries in the region of Midtjylland: CCI participants had the opportunity to meet, network with, listen to, learn and gain knowledge and inspiration from other creatives and experts.
+Optional participation in “this.series”, part of [“this.festival”](https://thisaarhus.com/) for digitalisation and creative industries in the region of Midtjylland: CCI participants had the opportunity to meet, network with, listen to, learn and gain knowledge and inspiration from other creatives and experts.
 
 ### Pitching for a Better Baltic Sea 2020 (Digital Adaption)
 
