@@ -1,7 +1,7 @@
 ---
 title: "Tool 3: The MESH Festival"
 weight: 4
-header: "/assets/images/intro_1/header.jpg"
+header: "/assets/images/tool_3/header.jpg"
 ---
 
 ### Idea and Organisation
@@ -96,5 +96,3 @@ After years of organising meetings, gatherings, conferences and festivals, Media
 * **Interviews and Q&amp;As** — This format proved a success in an online setting. You end up closer to the speaker/interviewee when you’re in front of a screen than you do in real life. A questions based format was more dynamic than a straightforward presentation.
 * **Conversation based knowledge sharing (peer learning)** — Round table conversations led by a moderator worked particularly well online as the online format functions as a leveler and helps focus the conversation.
 * **All artist studio visits were pre-recorded and these showcases were well suited to the on-demand format.** — That storytelling and intimacy trump a powerpoint, was something participants experienced when one of the speakers accidentally had to give his talk with a smartphone. This unexpected, ad hoc solution led to a more personal talk that took us on a live tour through the speaker’s kitchen.
-
-### Learning Module

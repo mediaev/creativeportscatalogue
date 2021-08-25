@@ -1,7 +1,7 @@
 ---
 title: "Tool 8: Export Speed Mentoring"
 weight: 9
-header: "/assets/images/intro_1/header.jpg"
+header: "/assets/images/tool_8/header.jpg"
 ---
 
 ## Idea and Organisation
@@ -73,20 +73,25 @@ Tallinn Creative Incubator prepared the general marketing material, which includ
 
 The event was not widely marketed because it was closed with a limited number of places. However, each partner was free to market the event in their home country however they saw fit.
 
-<img src="/assets/images/tool_8/tool8_1.jpg" alt="" />
+<img src="/assets/images/tool_8/tool8_1.jpg" alt="The program" />
 
 ## Testimonials From Participants
 
 > “I think you are doing a fine job promoting our local design and also speaking with foreign designers and helping them by giving different advice from real life.”
 
 > “Great mentors and very professional and precise advice! Exporting is all about making a decision, a plan and lots of action! Every market has its own face and specifics. Talk to people!”
-“Thank you for this occasion to talk to experts “out there“ – it opened my mind to several steps I have to take, things I need to change – shortly and first of all: to get out of my comfort zone!”
+
+<img src="/assets/images/tool_8/tool8_2.png" alt="The participants" />
+
+>“Thank you for this occasion to talk to experts “out there“ – it opened my mind to several steps I have to take, things I need to change – shortly and first of all: to get out of my comfort zone!”
+
 > “A day filled with inspiration, knowledge and generous people letting us in on their stories. Good contacts and talks. Super!”
 
 > “A real pleasure and incredibly interesting to get the opportunity to humbly share my experience and knowledge.”
 
 > “It was that kind of event that you wish you would have joined when you were at the early stages of creating your own brand. Everybody was willing to share, help and support with specific and doable tips and suggestions.”
 
+<img src="/assets/images/tool_8/tool8_3.png" alt="The participants" />
 
 ## Lessons Learnt
 

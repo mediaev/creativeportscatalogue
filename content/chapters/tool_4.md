@@ -1,20 +1,20 @@
 ---
 title: "Tool 4: International Meet 'n' Match"
 weight: 5
-header: "/assets/images/intro_1/header.jpg"
+header: "/assets/images/tool_4/header.jpg"
 ---
 
 ## Idea and Organisation
 
 The [International Meet 'n’ Match](https://filmbyaarhus.dk/ready-steady-match-meet-n-match-event/) event gave small and medium-sized enterprises (SMEs) and game developers inspiration for new ideas, methods and technologies and provided an opportunity for matchmaking and professional exchange.
 
-<img src="/assets/images/tool_4/tool4_2.png" alt="" />
+<img src="/assets/images/tool_4/tool4_2.png" alt="Match session." />
 
 The tool is scalable and adaptable for other sectors within CCI, but at this International Meet ‘n’ Match, the focus was solely on the gaming industry.
 
 (Filmby Aarhus)[https://filmbyaarhus.dk] (Denmark) is the Aarhus municipality centre for film, media production and digital experiences. Filmby Aarhus houses 80+ media companies producing films, VR, games and much more, plus two film studios and two study programmes (VIA Film & Transmedia and Kaos Pilot).
 
-Besides Creative Ports, Filmby Aarhus has held other international development projects, such as the Interreg BSR projects First Motion and Cross Motion and the NSR projects North Sea Screen Partners and Create Converge, which ran until July 2020. Filmby Aarhus also runs Ideas Lab, an incubator where startups working with digital experiences can work and grow through structured sparring.
+Besides Creative Ports, Filmby Aarhus has held other international development projects, such as the Interreg BSR projects First Motion and Cross Motion and the NSR projects North Sea Screen Partners and Create Converge, which ran until July 2021. Filmby Aarhus also runs Ideas Lab, an incubator where startups working with digital experiences can work and grow through structured sparring.
 
 ## International Meet'n’Match in Figures
 
@@ -54,18 +54,16 @@ The central part of the event was match sessions in which participating companie
 
 The organisers recruited companies in an open call for participation and developed the marketing material. The Creative Ports partner organisations helped spread the word in their respective social media channels and newsletters.
 
-<img src="/assets/images/tool_4/tool4_1.png" alt="" />
+<img src="/assets/images/tool_4/tool4_1.png" alt="Facebook invitation." />
 
 ## Testimonials From Participants
 
-> “I made a few new connections and got some food for thought. I also got the chance to share my experience and knowledge with other participants.”
+> “I made new connections and got some food for thought. I also got the chance to share my experience and knowledge with other participants.”
 
 > “The online format for networking worked very well.”
 
 ## Lessons Learnt
+
 The event was held online due to Covid-19 restrictions, but ideally it would have happened physically. The online platform can be limiting when creating social connections and matchmaking, as participants can’t interact face-to-face. Conversations didn’t flow as naturally and the moderator’s role became more central to kick start topics.
 
 Planning the event alongside another event was fruitful in various ways, as participants were recruited within the same networks and communication channels. The mutual benefit resulted in many early sign-ups, as participants could sign-up for two events in one go. However, there were several dropouts on the day of the event due to the online format. It is much easier for attendees to withdraw from an online event, so it’s pertinent to consider a “no-show” fee or similar for late cancellations.
-
-## Learning module
--> link

@@ -1,12 +1,12 @@
 ---
 title: "Tool 2: Pitching for a Better Baltic Sea"
 weight: 3
-header: "/assets/images/intro_1/header.jpg"
+header: "/assets/images/tool_2/header.jpg"
 ---
 
 ## The Idea and Organisation
 
-The idea of [Pitching for a Better Baltic Sea](https://www.dki.lv/pitching-better-baltic-sea-2020-2/) was to develop transnational cross-sectoral collaborations in the Baltic Sea Region within the creative industries. This was achieved by designing an integrated experience (pitching contest, training event, B2B program) that built on existing CCI-support frameworks (involving CCI support organisations and cultural institutes).
+The idea of [Pitching for a Better Baltic Sea](https://www.dki.lv/pitching-better-baltic-sea-2020-2/) was to develop transnational cross-sectoral collaborations in the Baltic Sea Region within the creative industries. This was achieved by designing an integrated experience (pitching contest, training event, B2B[^1] program) that built on existing CCI-support frameworks (involving CCI support organisations and cultural institutes).
 
 <img src="/assets/images/tool_2/tool2_1.jpg" alt="photo of people seated in an audience." />
 
@@ -26,7 +26,7 @@ It is the mission of the [Danish Cultural Institute](https://www.danishculture.c
 * 3 keynote speakers
 * 13 jury members
 * 5 judging criteria: Creativity, uniqueness, innovation, team and market potential
-* 2 winners: Kira Shoes and Ette Tete (SIA Snores)
+* 2 winners: Ette Tete (SIA Snores) and Kira Shoes
 
 ## Aim and Target Group
 
@@ -46,11 +46,11 @@ The Pitching for a Better Baltic Sea internationalisation tool was split into tw
 
 <img src="/assets/images/tool_2/tool2_4.jpg" alt="" />
 
+The goals of the pitching competition was to empower CCI participants; for them to learn from each other and connect to each other, to other CCI actors and to international markets; for them to gain inspiration and knowledge of concrete examples of CCI projects in the Baltic Sea Region that are both commercially viable and environmentally sustainable; for them to strengthen their innovative capabilities and pitching skills; for them to showcase their products and services to the audience. 
+
 ### Pitching for a Better Baltic Sea 2019
 
 **28 October:**
-Goals of the pitching competition: To empower CCI participants; for them to learn from each other and connect to each other, to other CCI actors and to international markets; for them to gain inspiration and knowledge of concrete examples of CCI projects in the BSR that are both commercially viable and environmentally sustainable; for them to strengthen their innovative capabilities and pitching skills; for them to showcase their products and services to the audience.
-
 Keynote session (by Kasper Petersen, co-founder of LABFRESH): For CCI participants to gain new inspiration and knowledge of methods and technologies and to allow them to learn from a concrete example of a more experienced Danish company that has successfully combined commercial interests and sustainable methods and approaches.
 
 Creative intervention (concert by Latvian band Carnival Youth): The performance aimed to inspire and create a starting point for dialogue and exchange between the many different participants.
@@ -67,8 +67,6 @@ Optional participation in “this.series”, part of “this.festival” for dig
 ### Pitching for a Better Baltic Sea 2020 (Digital Adaption)
 
 **28 October:**
-Goals of the pitching competition: To empower CCI participants; for them to learn from each other and connect to each other, to other CCI actors and to international markets; for them to gain new inspiration and knowledge of concrete examples of CCI projects in the BSR that are both commercially viable and environmentally sustainable; for them to strengthen their innovative capabilities and pitching skills; for them to showcase their products and services to the audience.
-
 Keynote sessions (by Rebecca Vera Stahnke from Veras Vintage and Caroline Gjerulff from Vision Denmark): CCI participants gained inspiration and knowledge of methods and technologies and learnt from concrete examples of more experienced Danish companies and projects that have successfully combined commercial interests and sustainable methods and approaches.
 
 Creative intervention (concert by Latvian artist Chris Noah): The performance aimed to inspire and create a starting point for dialogue and exchange between the many different participants.
@@ -94,15 +92,17 @@ The events were communicated on websites, social media platforms and newsletters
 
 > “Everything was great.”
 
-> “I hope that next year it is possible to meet people in real life again,, it’s much more comfortable to network and get new contacts.”
+> “I hope that next year it is possible to meet people in real life again, it’s much more comfortable to network and get new contacts.”
 
 
-## Lessons Learnt
+## Lessonsllearnt on Adapting to a Digital Format
 
 Although the overall process of organising an international pitching event stays the same, some specific and significant aspects need to be considered when moving to an online platform. Firstly, organisers should think about the necessary technology, digital tools and platforms that they will use for the event and whether there are enough resources (competencies, equipment, etc.) to ensure the success of a virtual event. Secondly, organisers should think about how they can ensure engagement and effective interaction among participants, jury members and the wider audience.
 
-For digital events, it is important not to improvise technical factors on the day. The choice of moderator is even more important than for a physical event – and the job is even more challenging without a physical audience.
+For digital events, it is important not to improvise technical factors on the day. The choice of moderator is, furthermore, even more important than for a physical event – and the job is even more challenging without a physical audience.
 
-Participants of Pitching at the physical event Better Baltic Sea 2019 gained a greater understanding of existing possibilities for transnational cooperation and financing, e.g. the Accelerace Acceleration Program, by meeting and visiting different CCI incubators and support organisations. This, however, was very difficult to include to the same degree in the 2020 digital programme as physical visits to incubators and support organisations were not possible. The networking dimension of events like this is especially difficult to maintain in a digital environment.
+Participants of Pitching at the physical event Better Baltic Sea in 2019 gained a greater understanding of existing possibilities for transnational cooperation and financing, e.g. the Accelerace Acceleration Program, by meeting and visiting different CCI incubators and support organisations. This, however, was very difficult to include to the same degree in the 2020 digital programme as physical visits to incubators and support organisations were not possible. The networking dimension of events like this is especially difficult to maintain in a digital environment.
 
 As a final note, it’s relevant to point out that it was a great achievement of the organisers to create events that played into all the defined goals for Creative Ports tools as well as working actively with a sustainability focus and the UN Sustainable Development Goals.
+
+[^1]: Business-to-business, a transaction or business conducted between one business and another, such as a wholesaler and retailer.

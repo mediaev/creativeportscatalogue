@@ -1,10 +1,9 @@
 ---
 title: "Internationalisation Tools"
-header: "/assets/images/intro_1/header.jpg"
 weight: 0
 ---
 
-The Creative Ports project was developed to foster the internationalisation of the Cultural and Creative Industries (CCI)[^1] in the Baltic Sea Region.
+The Creative Ports project (2019-2021) was developed to foster the internationalisation of the Cultural and Creative Industries (CCI)[^1] in the Baltic Sea Region.
 
 The partnership comprised 14 partner organisations from the countries around the Baltic Sea – funding agencies, municipalities, international cultural institutes, and universities – who joined forces in a consortium led by the Goethe-Institut (DE). The Baltic Sea Region includes Denmark, Estonia, Finland, Latvia, Lithuania, Poland, Sweden and the northern parts of Germany as well as partner countries Norway and the northwest regions of Russia.
 
@@ -37,6 +36,6 @@ The internationalisation tools include joint showcases, fair visits, festivals, 
 
 Secondly, the partners prioritised and selected tools from the list and prepared the piloting of the ten internationalisation tools that are described in-depth in this catalogue. 
 
-Lastly, the partners developed learning modules from the piloting activities to allow target groups beyond the partnership to learn how to foster the internationalisation of the CCIs from the processes and experiences.
+Lastly, the partners developed online learning modules from the piloting activities to allow target groups beyond the partnership to learn how to foster the internationalisation of the CCIs from the processes and experiences.
 
 [^1]: Since there are various definitions of Cultural and Creative Industries, the project followed an inclusive and pragmatic approach and covered multiple CCI sub-sectors such as film, design, gaming and music industries.

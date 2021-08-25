@@ -1,7 +1,7 @@
 ---
 title: "Tool 7: Melt Innovation Forum"
 weight: 8
-header: "/assets/images/intro_1/header.jpg"
+header: "/assets/images/tool_7/header.jpg"
 ---
 
 ## Idea and Organisation
@@ -41,9 +41,10 @@ The “Gains and Pains of Circular Economy” panellists included:
 **14.15-15.00** _Tallinn Science Park Tehnopol presents: Smart City Solutions Competition winners pitches and panel discussion, How to Bring Smart Solutions to Cities?_ / Moderated by Martin Goroško and Toomas Türk (in Estonian)
 **15.00-15.45** _Tallinn Science Park Tehnopol presents: Cooperation Between the Corporation and the Public Sector - an Effective Growth Strategy for a Start-up Company_ / Moderated by Martin Goroško (in Estonian)
 
+<img src="/assets/images/tool_7/tool7_3.png" alt="The “Gains and Pains of Circular Economy” panel" />
+
 As most CCI intermediaries and creative companies' understanding of sustainable design is often limited to material choice, it is vital to expand the target groups' knowledge about different circular business practices. To achieve this, Tallinn Creative Incubator produced an educational video series: “How to Design Products Following the Principles of the Circular Economy?” The video series aimed to introduce different circular design principles and share success stories of design companies that are practising them. The first video was published at the MELT conference before the panel discussion.
 
-Along side the program, an educational video series was produced and is [avaialble here](https://inkubaator.tallinn.ee/ringmajandus/).
 <img src="/assets/images/tool_7/tool7_1.png" alt="" />
 
 ## Communication
@@ -55,6 +56,3 @@ As MELT Innovation Forum has been running for several years, it is a well-establ
 ## Lessons Learnt
 
 Due to Covid-19, MELT had to move online, making it harder to enable networking between the participants. However, sharing ideas and including international speakers was much easier than in normal circumstances. As the majority of the MELT target group were Estonian speakers and the conference was organised together with three Estonian partners, most of the program was in the local language. The keynote speaker and the panel discussion were the only parts in English. This was not enough to attract a large number of international viewers. To attract more international viewers and participants, the whole conference would need to be in English.
-
-## Learning module
--> link

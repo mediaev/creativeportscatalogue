@@ -1,12 +1,12 @@
 ---
 title: "Tool 1: The Baltic Home"
 weight: 2
-header: "/assets/images/intro_1/header.jpg"
+header: "/assets/images/tool_1/header.jpg"
 ---
 
 ## Idea and organisation
 
-Baltic Home was a virtual [pop-up exhibition](http://baltichome.wzp.pl/) of furniture and other interior objects, launched in October 2020 within the fifth International Creative Congress [DESIGN PLUS](http://designplus.net.pl) in Szczecin, Poland. Baltic Home presented designers from Sweden, Denmark, Finland, Lithuania, Estonia and Germany.
+Baltic Home was a virtual [pop-up exhibition](http://baltichome.wzp.pl/) of furniture and other interior objects, launched in October 2020 within the fifth International Creative Congress [DESIGN PLUS](http://designplus.net.pl) in Szczecin, Poland. Baltic Home presented designers from Sweden, Denmark, Finland, Lithuania, Estonia, Germany and Poland.
 
 <img src="/assets/images/tool_1/tool1_1.png" alt="" />
 
@@ -65,7 +65,3 @@ Visual identity and marketing materials were developed, as well as a website to 
 ## Lessons Learnt
 
 This exhibition developed out of a need to find creative solutions to hosting cultural events during a pandemic. Technically, the exhibition was a success. It was easy to set up and didn’t require the purchase of an exhibition license or special programs and applications. The outcome was better than expected and the format has a great deal of potential, even in a post-pandemic world.
-
-## Learning Module
-
--> link (coming)

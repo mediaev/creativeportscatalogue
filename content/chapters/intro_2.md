@@ -1,6 +1,5 @@
 ---
 title: "Internationalisation in a Pandemic"
-header: "/assets/images/intro_1/header.jpg"
 weight: 1
 ---
 
