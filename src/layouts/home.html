@@ -14,7 +14,7 @@ bodyClass: home
     <ol class="toc">
       {%- for chapter in collections.chapters -%}
       <li>
-        <a {% if chapter.data.header %}data-header="{{ chapter.data.header }}"{% endif% } href="{{ chapter.url }}">
+        <a {% if chapter.data.header %}data-header="{{ chapter.data.header }}"{% endif %} href="{{ chapter.url }}">
           {{ chapter.data.title }}
         </a>
       </li>
