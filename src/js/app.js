@@ -30,20 +30,3 @@ document.querySelectorAll('.footnote-item').forEach((footnote) => {
     wrapper.classList.add('hidden');
   });
 });
-
-const imageContainer = document.querySelector('.image-container img');
-let timer = false;
-document.querySelectorAll('.home .toc a').forEach((link) => {
-  link.addEventListener('mouseover', () => {
-    clearTimeout(timer);
-    const src = link.getAttribute('data-header');
-    imageContainer.src = src;
-    imageContainer.classList.remove('hidden');
-  });
-  link.addEventListener('mouseout', () => {
-    clearTimeout(timer);
-    timer = setTimeout(() => {
-      imageContainer.classList.add('hidden');
-    }, 200);
-  });
-});

@@ -14,15 +14,12 @@ bodyClass: home
     <ol class="toc">
       {%- for chapter in collections.chapters -%}
       <li>
-        <a {% if chapter.data.header %}data-header="{{ chapter.data.header }}"{% endif %} href="{{ chapter.url }}">
+        <a href="{{ chapter.url }}">
           {{ chapter.data.title }}
         </a>
       </li>
       {%- endfor -%}
     </ol>
-    <div class="image-container">
-      <img src="" class="hidden" aria-hidden="true" />
-    </div>
   </div>
 
   <nav class="chapter-navigation">
