@@ -4,6 +4,8 @@ weight: 6
 header: "/assets/images/tool_5/header.jpg"
 ---
 
+[Download this chapter as PDF](/assets/pdf/CreativePorts_Catalogue_Tool5.pdf)
+
 ## Idea and Organisation
 
 ABCD Scanning Tool for CCI Internationalisation gathered intermediaries and cultural practitioners in online sessions to facilitate discussions in an open environment curated to create solutions and achieve synergies for and with the participants. The tool is an extension of previous successful tools developed by the organiser, [ARS BALTICA](https://www.ars-baltica.net/homepage).

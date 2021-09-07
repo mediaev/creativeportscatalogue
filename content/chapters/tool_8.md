@@ -4,6 +4,8 @@ weight: 9
 header: "/assets/images/tool_8/header.jpg"
 ---
 
+[Download this chapter as PDF](/assets/pdf/CreativePorts_Catalogue_Tool8.pdf)
+
 ## Idea and Organisation
 
 Export Speed Mentoring was a one-day event that brought together fashion designers and mentors from Estonia, Sweden, Poland and Germany to support Baltic Sea Region designers to enter new markets and learn about circular principles.

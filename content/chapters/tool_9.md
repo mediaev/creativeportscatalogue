@@ -4,6 +4,8 @@ weight: 10
 header: "/assets/images/tool_9/header.jpg"
 ---
 
+[Download this chapter as PDF](/assets/pdf/CreativePorts_Catalogue_Tool9.pdf)
+
 ## Idea and Organisation
 The Sustainable Design Lab was an international prototyping Lab for designers of different disciplines. It brought together designers from Mikkeli, Riga and Hamburg to jointly build prototypes for sustainable design in three 1.5-day sessions between March and June 2021. The aim was to network and exchange ideas in an international environment by working on prototypes that tackle one of today’s major challenges for design: sustainability.
 

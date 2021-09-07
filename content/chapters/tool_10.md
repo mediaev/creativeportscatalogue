@@ -4,6 +4,8 @@ weight: 11
 header: "/assets/images/tool_10/header.jpg"
 ---
 
+[Download this chapter as PDF](/assets/pdf/CreativePorts_Catalogue_Tool10.pdf)
+
 Game Mixer Days was an acceleration program for a new generation of game developers and studios from the Baltic Sea Region. The program had two parts: a virtual international showcase including market information and a peer-learning format.
 
 With about 1500 companies and studios, the Baltic Sea Region has a vibrant and growing game industry. In particular, in Finland, Sweden, Poland and Denmark, game companies form an important cultural and creative industries’ sector.

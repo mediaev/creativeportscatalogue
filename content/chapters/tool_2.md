@@ -4,6 +4,8 @@ weight: 3
 header: "/assets/images/tool_2/header.jpg"
 ---
 
+[Download this chapter as PDF](/assets/pdf/CreativePorts_Catalogue_Tool2.pdf)
+
 ## The Idea and Organisation
 
 The idea of [Pitching for a Better Baltic Sea](https://www.dki.lv/pitching-better-baltic-sea-2020-2/) was to develop transnational cross-sectoral collaborations in the Baltic Sea Region within the creative industries. This was achieved by designing an integrated experience (pitching contest, training event, B2B[^1] program) that built on existing CCI-support frameworks (involving CCI support organisations and cultural institutes).

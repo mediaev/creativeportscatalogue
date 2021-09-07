@@ -4,6 +4,8 @@ weight: 7
 header: "/assets/images/tool_6/header.jpg"
 ---
 
+[Download this chapter as PDF](/assets/pdf/CreativePorts_Catalogue_Tool6.pdf)
+
 The idea behind “The Internalisation Center” was to develop the cultural and creative industries in the Baltic Sea Region. This was done by introducing digital technologies, including virtual and augmented reality (VR/AR). The Center’s activities will make a significant contribution to the development of the digital economy and information technologies in St. Petersburg and the whole Baltic Sea Region. The activities will support the development of CCI, which are directly related to both VR/AR use and products created with the use of VR/AR technology in CCI.
 
 ## The Internalisation Center in figures

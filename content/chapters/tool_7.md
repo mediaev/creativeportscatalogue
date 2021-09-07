@@ -4,6 +4,8 @@ weight: 8
 header: "/assets/images/tool_7/header.jpg"
 ---
 
+[Download this chapter as PDF](/assets/pdf/CreativePorts_Catalogue_Tool7.pdf)
+
 ## Idea and Organisation
 
 [MELT Innovation Forum](https://www.melt.ee) is an annual conference that introduces new business and innovation opportunities to all sectors of CCI. In 2021, the forum took place online under the themes - the future economy, new business models, sustainability and future technologies. In the context of Creative Ports, the conference featured an international panel on the circular economy, which focussed on the textile industry and gathered speakers from Estonia and Germany.
