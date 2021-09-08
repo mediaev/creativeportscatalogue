@@ -3,7 +3,7 @@ title: "Epilogue"
 weight: 13
 ---
 
-[Download this chapter as PDF](/assets/pdf/CreativePorts_Catalogue_X_Epilogue.pdf) {.test}
+[Download this chapter as PDF](/assets/pdf/CreativePorts_Catalogue_X_Epilogue.pdf)
 
 Careful readers of this document may have noted that although it presents ten individual tools, collaborations between their producers feature throughout. Indeed, it’s been a great advantage to share insights and ideas between organisa- tions all striving for the same goal – to enable players in the cultural and creative industries to seek markets outside their locality.
 
